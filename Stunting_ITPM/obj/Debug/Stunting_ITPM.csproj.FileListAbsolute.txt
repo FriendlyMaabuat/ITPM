@@ -1,0 +1,10 @@
+D:\Campus\Summer 2022\ITPM\ITPM-Draft\Stunting_ITPM\Stunting_ITPM\bin\Debug\Stunting_ITPM.exe.config
+D:\Campus\Summer 2022\ITPM\ITPM-Draft\Stunting_ITPM\Stunting_ITPM\bin\Debug\Stunting_ITPM.exe
+D:\Campus\Summer 2022\ITPM\ITPM-Draft\Stunting_ITPM\Stunting_ITPM\bin\Debug\Stunting_ITPM.pdb
+D:\Campus\Summer 2022\ITPM\ITPM-Draft\Stunting_ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.csproj.AssemblyReference.cache
+D:\Campus\Summer 2022\ITPM\ITPM-Draft\Stunting_ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.Form1.resources
+D:\Campus\Summer 2022\ITPM\ITPM-Draft\Stunting_ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.Properties.Resources.resources
+D:\Campus\Summer 2022\ITPM\ITPM-Draft\Stunting_ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.csproj.GenerateResource.cache
+D:\Campus\Summer 2022\ITPM\ITPM-Draft\Stunting_ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.csproj.CoreCompileInputs.cache
+D:\Campus\Summer 2022\ITPM\ITPM-Draft\Stunting_ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.exe
+D:\Campus\Summer 2022\ITPM\ITPM-Draft\Stunting_ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.pdb
