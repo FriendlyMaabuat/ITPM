@@ -31,7 +31,7 @@ namespace Stunting_ITPM
 
         private void panel1_Paint(object sender, PaintEventArgs e)
         {
-            
+
         }
 
         private void checkBox_showPassword_CheckedChanged(object sender, EventArgs e)
@@ -48,7 +48,7 @@ namespace Stunting_ITPM
 
         private void button_login_Click(object sender, EventArgs e)
         {
-            if(textBox_username.Text == "" || textBox_password.Text == "")
+            if (textBox_username.Text == "" || textBox_password.Text == "")
             {
                 MessageBox.Show("Ada kolom yang belum diisi, mohon diisi terlebih dahulu dengan data yang sesuai");
             }
@@ -115,17 +115,32 @@ namespace Stunting_ITPM
 
         private void pictureBox3_Click(object sender, EventArgs e)
         {
-            radioButton_mengandung.Checked = true;
+            panel_inputMengandung.BringToFront();
+            panel_inputMengandung.BringToFront();
+            panel_inputMengandung.BringToFront();
+            panel_inputMengandung.BringToFront();
+            panel_inputMengandung.BringToFront();
+            panel_inputMengandung.Visible = true;
+            panel_pilih.Visible = false;
         }
 
         private void pictureBox_ortuAnak_Click(object sender, EventArgs e)
         {
-            radioButton_ortuAnak.Checked = true;
+            panel_inputOrtuAnak.BringToFront();
+            panel_inputOrtuAnak.BringToFront();
+            panel_inputOrtuAnak.BringToFront();
+            panel_inputOrtuAnak.BringToFront();
+            panel_inputOrtuAnak.BringToFront();
+            panel_inputOrtuAnak.BringToFront();
+            panel_inputOrtuAnak.BringToFront();
+            panel_inputOrtuAnak.BringToFront();
+            panel_inputOrtuAnak.Visible = true;
+            panel_pilih.Visible = false;
         }
 
         private void button_lanjutPilih_Click(object sender, EventArgs e)
         {
-            if(radioButton_mengandung.Checked != true && radioButton_ortuAnak.Checked != true)
+            /*if(radioButton_mengandung.Checked != true && radioButton_ortuAnak.Checked != true)
             {
                 MessageBox.Show("Silahkan pilih kategori yang cocok terlebih dahulu sebelum lanjut");
             }
@@ -154,7 +169,7 @@ namespace Stunting_ITPM
                     panel_inputMengandung.Visible = true;
                     panel_pilih.Visible = false;
                 }
-            }
+            }*/
 
         }
 
@@ -183,7 +198,7 @@ namespace Stunting_ITPM
 
         private void button_lanjutInputOrtuAnak_Click(object sender, EventArgs e)
         {
-            if((textBox_umurTahun.Text == "" && textBox_umurBulan.Text == "") || (radioButton_lakiLaki.Checked == false && radioButton_perempuan.Checked == false) || (textBox_beratKg.Text == "" && textBox_panjangBayi.Text == ""))
+            if ((textBox_umurTahun.Text == "" && textBox_umurBulan.Text == "") || (radioButton_lakiLaki.Checked == false && radioButton_perempuan.Checked == false) || (textBox_beratKg.Text == "" && textBox_panjangBayi.Text == ""))
             {
                 MessageBox.Show("Ada data yang belum diisi. Mohon isi dulu semua data yang ada lalu lanjut ke tahap berikutnya");
             }
@@ -559,6 +574,52 @@ namespace Stunting_ITPM
         {
             ReleaseCapture();
             SendMessage(this.Handle, WM_NCLBUTTONDOWN, HT_CAPTION, 0);
+        }
+
+        private void label37_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void checkBox_registrasiPassword_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBox_registrasiPassword.Checked == true)
+            {
+                textBox_registrasiPassword.PasswordChar = '\0';
+            }
+            else
+            {
+                textBox_registrasiPassword.PasswordChar = '*';
+            }
+        }
+
+        private void button_registrasiDaftar_Click(object sender, EventArgs e)
+        {
+            if (textBox_registrasiNama.Text.Length == 0 || textBox_registrasiUsername.Text.Length == 0 || textBox_registrasiAlamat.Text.Length == 0 || textBox_registrasiNomorTelepon.Text.Length == 0 || textBox_registrasiPassword.Text.Length == 0 || (radioButton_registrasiLakilaki.Checked == false && radioButton_registrasiPerempuan.Checked == false))
+            {
+                MessageBox.Show("Ada data yang belum diisi, silahkan isi dulu dengan data yang sesuai");
+            }
+            else
+            {
+                MessageBox.Show("Data anda berhasil disimpan. Silahkan login");
+                panel_login.BringToFront();
+                panel_login.Visible = true;
+                panel_registrasi.Visible = false;
+            }
+        }
+
+        private void pictureBox_backRegistrasi_Click(object sender, EventArgs e)
+        {
+            panel_login.BringToFront();
+            panel_login.Visible = true;
+            panel_registrasi.Visible = false;
+        }
+
+        private void button_register_Click(object sender, EventArgs e)
+        {
+            panel_registrasi.BringToFront();
+            panel_registrasi.Visible = true;
+            panel_login.Visible = false;
         }
     }
 }
