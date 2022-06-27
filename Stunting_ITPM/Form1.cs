@@ -621,5 +621,81 @@ namespace Stunting_ITPM
             panel_registrasi.Visible = true;
             panel_login.Visible = false;
         }
+
+        private void textBox_registrasiNomorTelepon_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = !char.IsDigit(e.KeyChar) && !char.IsControl(e.KeyChar);
+        }
+
+        private void textBox_umurTahun_TextChanged(object sender, EventArgs e)
+        {
+            var textbox = sender as TextBox;
+            int value;
+            if (int.TryParse(textbox.Text, out value))
+            {
+                if (value > 5)
+                    textbox.Text = "5";
+                else if (value < 0)
+                    textbox.Text = "0";
+            }
+        }
+
+        private void textBox_umurBulan_TextChanged(object sender, EventArgs e)
+        {
+            if(textBox_umurTahun.Text == "5")
+            {
+                var textbox = sender as TextBox;
+                int value;
+                if (int.TryParse(textbox.Text, out value))
+                {
+                    if (value > 0)
+                        textbox.Text = "0";
+                    else if (value < 0)
+                        textbox.Text = "0";
+                }
+            }
+            else
+            {
+                var textbox = sender as TextBox;
+                int value;
+                if (int.TryParse(textbox.Text, out value))
+                {
+                    if (value > 12)
+                        textbox.Text = "12";
+                    else if (value < 0)
+                        textbox.Text = "0";
+                }
+            }
+        }
+
+        private void textBox_umurTahun_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = !char.IsDigit(e.KeyChar) && !char.IsControl(e.KeyChar);
+        }
+
+        private void textBox_umurBulan_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = !char.IsDigit(e.KeyChar) && !char.IsControl(e.KeyChar);
+        }
+
+        private void textBox_beratKg_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = !char.IsDigit(e.KeyChar) && !char.IsControl(e.KeyChar);
+        }
+
+        private void textBox_panjangBayi_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = !char.IsDigit(e.KeyChar) && !char.IsControl(e.KeyChar);
+        }
+
+        private void textBox_registrasiNama_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = !(char.IsLetter(e.KeyChar) || e.KeyChar == (char)Keys.Back || e.KeyChar == (char)Keys.Space);
+        }
+
+        private void textBox_registrasiUsername_KeyPress(object sender, KeyPressEventArgs e)
+        {
+
+        }
     }
 }
