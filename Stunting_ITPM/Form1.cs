@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
+using MySql.Data.MySqlClient;
 
 namespace Stunting_ITPM
 {
@@ -54,6 +55,39 @@ namespace Stunting_ITPM
             }
             else
             {
+                try
+                {
+                    //connection 
+                    string myConnection = "datasource=localhost;port=3306;username=root;password=";
+                    MySqlConnection myConn = new MySqlConnection(myConnection);
+
+                    MySqlCommand SelectCommand = new MySqlCommand("select * from stunting.db_register where username= '" + this.textBox_username.Text + "' and password='" + this.textBox_password.Text + "' ;", myConn);
+                    MySqlDataReader myReader;
+                    myConn.Open();
+
+                    myReader = SelectCommand.ExecuteReader();
+                    int count = 0;
+                    while (myReader.Read())
+                    {
+                        count = count + 1;
+                    }
+                    if (count == 1)
+                    {
+                        panel_pilih.Visible = true;
+                        panel_pilih.BringToFront();
+                        panel_login.Visible = false;
+                    }
+                    else
+                    {
+                        MessageBox.Show("Username atau password yang dimasukkan salah");
+                    }
+                    myConn.Close();
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message);
+                }
+                /*
                 if (textBox_username.Text != "tes" || textBox_password.Text != "123")
                 {
                     MessageBox.Show("Username atau password yang dimasukkan salah");
@@ -63,7 +97,7 @@ namespace Stunting_ITPM
                     panel_pilih.Visible = true;
                     panel_pilih.BringToFront();
                     panel_login.Visible = false;
-                }
+                }*/
             }
         }
 
@@ -601,10 +635,62 @@ namespace Stunting_ITPM
             }
             else
             {
+                if(radioButton_registrasiLakilaki.Checked == true)
+                {
+                    //connection 
+                    string myConnection = "datasource=localhost;port=3306;username=root;password=";
+                    string Query = "insert into stunting.db_register (nama,username,alamat,no_telp,jenis_kelamin,password) values('" + this.textBox_registrasiNama.Text + "','" + this.textBox_registrasiUsername.Text + "','" + this.textBox_registrasiAlamat.Text + "','" + this.textBox_registrasiNomorTelepon.Text + "','" + this.radioButton_registrasiLakilaki.Text + "','" + this.textBox_registrasiPassword.Text + "');";
+                    MySqlConnection myConn = new MySqlConnection(myConnection);
+                    MySqlCommand cmdDatabase = new MySqlCommand(Query, myConn);
+                    MySqlDataReader myReader;
+
+                    try
+                    {
+                        myConn.Open();
+                        myReader = cmdDatabase.ExecuteReader();
+                        MessageBox.Show("Data anda berhasil disimpan. Silahkan login");
+
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show(ex.Message);
+                    }
+                    panel_login.BringToFront();
+                    panel_login.Visible = true;
+                    panel_registrasi.Visible = false;
+                }
+                else if(radioButton_registrasiPerempuan.Checked == true)
+                {
+                    //connection 
+                    string myConnection = "datasource=localhost;port=3306;username=root;password=";
+                    string Query = "insert into stunting.db_register (nama,username,alamat,no_telp,jenis_kelamin,password) values('" + this.textBox_registrasiNama.Text + "','" + this.textBox_registrasiUsername.Text + "','" + this.textBox_registrasiAlamat.Text + "','" + this.textBox_registrasiNomorTelepon.Text + "','" + this.radioButton_registrasiPerempuan.Text + "','" + this.textBox_registrasiPassword.Text + "');";
+                    MySqlConnection myConn = new MySqlConnection(myConnection);
+                    MySqlCommand cmdDatabase = new MySqlCommand(Query, myConn);
+                    MySqlDataReader myReader;
+
+                    try
+                    {
+                        myConn.Open();
+                        myReader = cmdDatabase.ExecuteReader();
+                        MessageBox.Show("Data anda berhasil disimpan. Silahkan login");
+
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show(ex.Message);
+                    }
+                    panel_login.BringToFront();
+                    panel_login.Visible = true;
+                    panel_registrasi.Visible = false;
+                }
+                
+
+                
+                /*
                 MessageBox.Show("Data anda berhasil disimpan. Silahkan login");
                 panel_login.BringToFront();
                 panel_login.Visible = true;
-                panel_registrasi.Visible = false;
+                panel_registrasi.Visible = false;*/
             }
         }
 
@@ -634,9 +720,14 @@ namespace Stunting_ITPM
             if (int.TryParse(textbox.Text, out value))
             {
                 if (value > 5)
+                {
+                    MessageBox.Show("Aplikasi ini ditujukan untuk balita");
                     textbox.Text = "5";
+                }
                 else if (value < 0)
+                {
                     textbox.Text = "0";
+                }   
             }
         }
 
@@ -680,7 +771,7 @@ namespace Stunting_ITPM
 
         private void textBox_beratKg_KeyPress(object sender, KeyPressEventArgs e)
         {
-            e.Handled = !char.IsDigit(e.KeyChar) && !char.IsControl(e.KeyChar);
+            
         }
 
         private void textBox_panjangBayi_KeyPress(object sender, KeyPressEventArgs e)

@@ -18,3 +18,27 @@ D:\Campus\Summer 2022\ITPM\ITPM-GITHUB\ITPM\Stunting_ITPM\obj\Debug\Stunting_ITP
 D:\Campus\Summer 2022\ITPM\ITPM-GITHUB\ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.csproj.CoreCompileInputs.cache
 D:\Campus\Summer 2022\ITPM\ITPM-GITHUB\ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.exe
 D:\Campus\Summer 2022\ITPM\ITPM-GITHUB\ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.pdb
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB\ITPM\Stunting_ITPM\bin\Debug\MySql.Data.dll
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB\ITPM\Stunting_ITPM\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB\ITPM\Stunting_ITPM\bin\Debug\MySql.Web.dll
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB\ITPM\Stunting_ITPM\bin\Debug\MySql.Data.xml
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB\ITPM\Stunting_ITPM\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB\ITPM\Stunting_ITPM\bin\Debug\MySql.Web.xml
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB\ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.csproj.CopyComplete
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB - Copy (Test Database)\ITPM\Stunting_ITPM\bin\Debug\Stunting_ITPM.exe.config
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB - Copy (Test Database)\ITPM\Stunting_ITPM\bin\Debug\Stunting_ITPM.exe
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB - Copy (Test Database)\ITPM\Stunting_ITPM\bin\Debug\Stunting_ITPM.pdb
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB - Copy (Test Database)\ITPM\Stunting_ITPM\bin\Debug\MySql.Data.dll
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB - Copy (Test Database)\ITPM\Stunting_ITPM\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB - Copy (Test Database)\ITPM\Stunting_ITPM\bin\Debug\MySql.Web.dll
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB - Copy (Test Database)\ITPM\Stunting_ITPM\bin\Debug\MySql.Data.xml
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB - Copy (Test Database)\ITPM\Stunting_ITPM\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB - Copy (Test Database)\ITPM\Stunting_ITPM\bin\Debug\MySql.Web.xml
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB - Copy (Test Database)\ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.csproj.AssemblyReference.cache
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB - Copy (Test Database)\ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.Form1.resources
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB - Copy (Test Database)\ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.Properties.Resources.resources
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB - Copy (Test Database)\ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.csproj.GenerateResource.cache
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB - Copy (Test Database)\ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.csproj.CoreCompileInputs.cache
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB - Copy (Test Database)\ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.csproj.CopyComplete
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB - Copy (Test Database)\ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.exe
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB - Copy (Test Database)\ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.pdb

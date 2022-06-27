@@ -91,6 +91,7 @@ namespace Stunting_ITPM
             this.label10 = new System.Windows.Forms.Label();
             this.label15 = new System.Windows.Forms.Label();
             this.label13 = new System.Windows.Forms.Label();
+            this.label59 = new System.Windows.Forms.Label();
             this.label19 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
             this.button_resetInputOrtuAnak = new System.Windows.Forms.Button();
@@ -181,7 +182,7 @@ namespace Stunting_ITPM
             this.textBox_registrasiNama = new System.Windows.Forms.TextBox();
             this.label54 = new System.Windows.Forms.Label();
             this.label56 = new System.Windows.Forms.Label();
-            this.label59 = new System.Windows.Forms.Label();
+            this.label60 = new System.Windows.Forms.Label();
             this.panel_login.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -1007,6 +1008,19 @@ namespace Stunting_ITPM
             this.label13.Text = "Berat Badan";
             this.label13.Click += new System.EventHandler(this.label9_Click);
             // 
+            // label59
+            // 
+            this.label59.AutoSize = true;
+            this.label59.BackColor = System.Drawing.Color.Transparent;
+            this.label59.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label59.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label59.Location = new System.Drawing.Point(96, 93);
+            this.label59.Name = "label59";
+            this.label59.Size = new System.Drawing.Size(142, 22);
+            this.label59.TabIndex = 0;
+            this.label59.Text = "Form Data Anak";
+            this.label59.Click += new System.EventHandler(this.label9_Click);
+            // 
             // label19
             // 
             this.label19.AutoSize = true;
@@ -1830,6 +1844,7 @@ namespace Stunting_ITPM
             this.panel_anakStunting.Controls.Add(this.pictureBox_backAnakStunting);
             this.panel_anakStunting.Controls.Add(this.pictureBox11);
             this.panel_anakStunting.Controls.Add(this.button_lanjutAnakStunting);
+            this.panel_anakStunting.Controls.Add(this.label60);
             this.panel_anakStunting.Controls.Add(this.label17);
             this.panel_anakStunting.Location = new System.Drawing.Point(0, 15);
             this.panel_anakStunting.Name = "panel_anakStunting";
@@ -1880,7 +1895,7 @@ namespace Stunting_ITPM
             this.label17.BackColor = System.Drawing.Color.Transparent;
             this.label17.Font = new System.Drawing.Font("Microsoft YaHei UI", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label17.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label17.Location = new System.Drawing.Point(52, 270);
+            this.label17.Location = new System.Drawing.Point(54, 209);
             this.label17.Name = "label17";
             this.label17.Size = new System.Drawing.Size(243, 56);
             this.label17.TabIndex = 0;
@@ -1996,6 +2011,7 @@ namespace Stunting_ITPM
             this.textBox_registrasiPassword.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(53)))), ((int)(((byte)(135)))), ((int)(((byte)(53)))));
             this.textBox_registrasiPassword.Location = new System.Drawing.Point(112, 353);
             this.textBox_registrasiPassword.Name = "textBox_registrasiPassword";
+            this.textBox_registrasiPassword.PasswordChar = '*';
             this.textBox_registrasiPassword.Size = new System.Drawing.Size(220, 24);
             this.textBox_registrasiPassword.TabIndex = 28;
             // 
@@ -2180,18 +2196,18 @@ namespace Stunting_ITPM
             this.label56.TabIndex = 23;
             this.label56.Text = "Nomor telepon: ";
             // 
-            // label59
+            // label60
             // 
-            this.label59.AutoSize = true;
-            this.label59.BackColor = System.Drawing.Color.Transparent;
-            this.label59.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label59.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label59.Location = new System.Drawing.Point(96, 93);
-            this.label59.Name = "label59";
-            this.label59.Size = new System.Drawing.Size(142, 22);
-            this.label59.TabIndex = 0;
-            this.label59.Text = "Form Data Anak";
-            this.label59.Click += new System.EventHandler(this.label9_Click);
+            this.label60.AutoSize = true;
+            this.label60.BackColor = System.Drawing.Color.Transparent;
+            this.label60.Font = new System.Drawing.Font("Microsoft YaHei UI", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label60.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label60.Location = new System.Drawing.Point(64, 289);
+            this.label60.Name = "label60";
+            this.label60.Size = new System.Drawing.Size(218, 112);
+            this.label60.TabIndex = 0;
+            this.label60.Text = "Anak anda \r\nakan masuk masa \r\nmonitoring selama \r\n30 hari kalender";
+            this.label60.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // Form1
             // 
@@ -2199,14 +2215,13 @@ namespace Stunting_ITPM
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(347, 671);
-            this.Controls.Add(this.panel_registrasi);
+            this.ClientSize = new System.Drawing.Size(347, 670);
+            this.Controls.Add(this.panel_solusiAnakStunting);
             this.Controls.Add(this.panel_inputOrtuAnak);
             this.Controls.Add(this.panel_janinTidakSehat);
             this.Controls.Add(this.panel_solusiJaninSehat);
             this.Controls.Add(this.panel_solusijaninTidakSehat);
             this.Controls.Add(this.panel_tentangAplikasi);
-            this.Controls.Add(this.panel_solusiAnakStunting);
             this.Controls.Add(this.panel_solusiAnakSehat);
             this.Controls.Add(this.panel_anakStunting);
             this.Controls.Add(this.panel_inputMengandung);
@@ -2214,6 +2229,7 @@ namespace Stunting_ITPM
             this.Controls.Add(this.panel_anakTidakStunting);
             this.Controls.Add(this.panel_pilih);
             this.Controls.Add(this.panel_login);
+            this.Controls.Add(this.panel_registrasi);
             this.DoubleBuffered = true;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Form1";
@@ -2442,6 +2458,7 @@ namespace Stunting_ITPM
         private System.Windows.Forms.Label label56;
         private System.Windows.Forms.CheckBox checkBox_registrasiPassword;
         private System.Windows.Forms.Label label59;
+        private System.Windows.Forms.Label label60;
     }
 }
 
