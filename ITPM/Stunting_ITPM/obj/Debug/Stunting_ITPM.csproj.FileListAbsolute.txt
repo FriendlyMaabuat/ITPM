@@ -8,6 +8,7 @@ D:\Campus\Summer 2022\ITPM\ITPM-Draft\Stunting_ITPM\Stunting_ITPM\obj\Debug\Stun
 D:\Campus\Summer 2022\ITPM\ITPM-Draft\Stunting_ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.csproj.CoreCompileInputs.cache
 D:\Campus\Summer 2022\ITPM\ITPM-Draft\Stunting_ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.exe
 D:\Campus\Summer 2022\ITPM\ITPM-Draft\Stunting_ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.pdb
+<<<<<<< HEAD
 C:\Users\ryven\Desktop\itpm\ITPM\Stunting_ITPM\bin\Debug\Stunting_ITPM.exe.config
 C:\Users\ryven\Desktop\itpm\ITPM\Stunting_ITPM\bin\Debug\Stunting_ITPM.exe
 C:\Users\ryven\Desktop\itpm\ITPM\Stunting_ITPM\bin\Debug\Stunting_ITPM.pdb
@@ -18,3 +19,25 @@ C:\Users\ryven\Desktop\itpm\ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.csproj.Ge
 C:\Users\ryven\Desktop\itpm\ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.csproj.CoreCompileInputs.cache
 C:\Users\ryven\Desktop\itpm\ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.exe
 C:\Users\ryven\Desktop\itpm\ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.pdb
+=======
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB\ITPM\Stunting_ITPM\bin\Debug\Stunting_ITPM.exe.config
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB\ITPM\Stunting_ITPM\bin\Debug\Stunting_ITPM.exe
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB\ITPM\Stunting_ITPM\bin\Debug\Stunting_ITPM.pdb
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB\ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.csproj.AssemblyReference.cache
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB\ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.Form1.resources
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB\ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.Properties.Resources.resources
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB\ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.csproj.GenerateResource.cache
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB\ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.csproj.CoreCompileInputs.cache
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB\ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.exe
+D:\Campus\Summer 2022\ITPM\ITPM-GITHUB\ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.pdb
+C:\Users\ryven\Desktop\itpm\itmp login and database\ITPM\Stunting_ITPM\bin\Debug\Stunting_ITPM.exe.config
+C:\Users\ryven\Desktop\itpm\itmp login and database\ITPM\Stunting_ITPM\bin\Debug\Stunting_ITPM.exe
+C:\Users\ryven\Desktop\itpm\itmp login and database\ITPM\Stunting_ITPM\bin\Debug\Stunting_ITPM.pdb
+C:\Users\ryven\Desktop\itpm\itmp login and database\ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.csproj.AssemblyReference.cache
+C:\Users\ryven\Desktop\itpm\itmp login and database\ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.Form1.resources
+C:\Users\ryven\Desktop\itpm\itmp login and database\ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.Properties.Resources.resources
+C:\Users\ryven\Desktop\itpm\itmp login and database\ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.csproj.GenerateResource.cache
+C:\Users\ryven\Desktop\itpm\itmp login and database\ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.csproj.CoreCompileInputs.cache
+C:\Users\ryven\Desktop\itpm\itmp login and database\ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.exe
+C:\Users\ryven\Desktop\itpm\itmp login and database\ITPM\Stunting_ITPM\obj\Debug\Stunting_ITPM.pdb
+>>>>>>> 47e068f (monitoring)

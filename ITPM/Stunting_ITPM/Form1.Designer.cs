@@ -41,6 +41,7 @@ namespace Stunting_ITPM
             this.button_register = new System.Windows.Forms.Button();
             this.button_login = new System.Windows.Forms.Button();
             this.panel_pilih = new System.Windows.Forms.Panel();
+<<<<<<< HEAD
             this.pictureBox_backInputPilih = new System.Windows.Forms.PictureBox();
             this.button_lanjutPilih = new System.Windows.Forms.Button();
             this.pictureBox_exitPilih = new System.Windows.Forms.PictureBox();
@@ -49,6 +50,15 @@ namespace Stunting_ITPM
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.radioButton_ortuAnak = new System.Windows.Forms.RadioButton();
             this.radioButton_mengandung = new System.Windows.Forms.RadioButton();
+=======
+            this.label43 = new System.Windows.Forms.Label();
+            this.pictureBox_backInputPilih = new System.Windows.Forms.PictureBox();
+            this.pictureBox_exitPilih = new System.Windows.Forms.PictureBox();
+            this.pictureBox_ortuAnak = new System.Windows.Forms.PictureBox();
+            this.label37 = new System.Windows.Forms.Label();
+            this.pictureBox_mengandung = new System.Windows.Forms.PictureBox();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+>>>>>>> 47e068f (monitoring)
             this.panel_inputMengandung = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
             this.radioButton_tidakAlkohol = new System.Windows.Forms.RadioButton();
@@ -92,6 +102,10 @@ namespace Stunting_ITPM
             this.label10 = new System.Windows.Forms.Label();
             this.label15 = new System.Windows.Forms.Label();
             this.label13 = new System.Windows.Forms.Label();
+<<<<<<< HEAD
+=======
+            this.label59 = new System.Windows.Forms.Label();
+>>>>>>> 47e068f (monitoring)
             this.label19 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
             this.button_resetInputOrtuAnak = new System.Windows.Forms.Button();
@@ -107,6 +121,7 @@ namespace Stunting_ITPM
             this.button1 = new System.Windows.Forms.Button();
             this.label20 = new System.Windows.Forms.Label();
             this.panel_solusijaninTidakSehat = new System.Windows.Forms.Panel();
+<<<<<<< HEAD
             this.button_menuAwalJaninTidakSehat = new System.Windows.Forms.Button();
             this.button_tentangAplikasiJaninTidakSehat = new System.Windows.Forms.Button();
             this.label18 = new System.Windows.Forms.Label();
@@ -120,6 +135,14 @@ namespace Stunting_ITPM
             this.label21 = new System.Windows.Forms.Label();
             this.panel_solusiJaninSehat = new System.Windows.Forms.Panel();
             this.button_tentangAplikasiSolusiJaninSehat = new System.Windows.Forms.Button();
+=======
+            this.panel_solusiJaninSehat = new System.Windows.Forms.Panel();
+            this.button_tentangAplikasiSolusiJaninSehat = new System.Windows.Forms.Button();
+            this.panel_janinTidakSehat = new System.Windows.Forms.Panel();
+            this.pictureBox_backJaninTidakSehat = new System.Windows.Forms.PictureBox();
+            this.button_lanjutJaninTidakSehat = new System.Windows.Forms.Button();
+            this.label34 = new System.Windows.Forms.Label();
+>>>>>>> 47e068f (monitoring)
             this.button_menuAwalSolusiJaninSehat = new System.Windows.Forms.Button();
             this.pictureBox9 = new System.Windows.Forms.PictureBox();
             this.pictureBox_backSolusiJaninSehat = new System.Windows.Forms.PictureBox();
@@ -129,12 +152,31 @@ namespace Stunting_ITPM
             this.label31 = new System.Windows.Forms.Label();
             this.label32 = new System.Windows.Forms.Label();
             this.label33 = new System.Windows.Forms.Label();
+<<<<<<< HEAD
+=======
+            this.button_MonitoringIbu = new System.Windows.Forms.Button();
+            this.button_menuAwalJaninTidakSehat = new System.Windows.Forms.Button();
+            this.button_tentangAplikasiJaninTidakSehat = new System.Windows.Forms.Button();
+            this.label18 = new System.Windows.Forms.Label();
+            this.pictureBox_backSolusiJaninTidakSehat = new System.Windows.Forms.PictureBox();
+            this.label27 = new System.Windows.Forms.Label();
+            this.label26 = new System.Windows.Forms.Label();
+            this.label25 = new System.Windows.Forms.Label();
+            this.label24 = new System.Windows.Forms.Label();
+            this.label23 = new System.Windows.Forms.Label();
+            this.label22 = new System.Windows.Forms.Label();
+            this.label21 = new System.Windows.Forms.Label();
+>>>>>>> 47e068f (monitoring)
             this.panel_tentangAplikasi = new System.Windows.Forms.Panel();
             this.button_menuAwalTentangAplikasi = new System.Windows.Forms.Button();
             this.label28 = new System.Windows.Forms.Label();
             this.label40 = new System.Windows.Forms.Label();
             this.label41 = new System.Windows.Forms.Label();
             this.panel_solusiAnakStunting = new System.Windows.Forms.Panel();
+<<<<<<< HEAD
+=======
+            this.button_MonitoringAnak = new System.Windows.Forms.Button();
+>>>>>>> 47e068f (monitoring)
             this.button_menuAwalAnakStunting = new System.Windows.Forms.Button();
             this.button_tentangAplikasiAnakStunting = new System.Windows.Forms.Button();
             this.pictureBox_backSolusiAnakStunting = new System.Windows.Forms.PictureBox();
@@ -159,6 +201,7 @@ namespace Stunting_ITPM
             this.pictureBox11 = new System.Windows.Forms.PictureBox();
             this.button_lanjutAnakStunting = new System.Windows.Forms.Button();
             this.label17 = new System.Windows.Forms.Label();
+<<<<<<< HEAD
             this.panel_janinTidakSehat = new System.Windows.Forms.Panel();
             this.pictureBox8 = new System.Windows.Forms.PictureBox();
             this.pictureBox_backJaninTidakSehat = new System.Windows.Forms.PictureBox();
@@ -180,6 +223,50 @@ namespace Stunting_ITPM
             this.textBox6 = new System.Windows.Forms.TextBox();
             this.label37 = new System.Windows.Forms.Label();
             this.label43 = new System.Windows.Forms.Label();
+=======
+            this.pictureBox8 = new System.Windows.Forms.PictureBox();
+            this.panel_registrasi = new System.Windows.Forms.Panel();
+            this.checkBox_registrasiPassword = new System.Windows.Forms.CheckBox();
+            this.label58 = new System.Windows.Forms.Label();
+            this.radioButton_registrasiLakilaki = new System.Windows.Forms.RadioButton();
+            this.radioButton_registrasiPerempuan = new System.Windows.Forms.RadioButton();
+            this.label57 = new System.Windows.Forms.Label();
+            this.label55 = new System.Windows.Forms.Label();
+            this.label53 = new System.Windows.Forms.Label();
+            this.button_registrasiDaftar = new System.Windows.Forms.Button();
+            this.pictureBox_backRegistrasi = new System.Windows.Forms.PictureBox();
+            this.label52 = new System.Windows.Forms.Label();
+            this.textBox_registrasiNomorTelepon = new System.Windows.Forms.TextBox();
+            this.textBox_registrasiAlamat = new System.Windows.Forms.TextBox();
+            this.textBox_registrasiUsername = new System.Windows.Forms.TextBox();
+            this.textBox_registrasiNama = new System.Windows.Forms.TextBox();
+            this.label54 = new System.Windows.Forms.Label();
+            this.label56 = new System.Windows.Forms.Label();
+            this.textBox_registrasiPassword = new System.Windows.Forms.TextBox();
+            this.panel_MonitoringIbu = new System.Windows.Forms.Panel();
+            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
+            this.label63 = new System.Windows.Forms.Label();
+            this.label62 = new System.Windows.Forms.Label();
+            this.label61 = new System.Windows.Forms.Label();
+            this.button_MenuAwalMonitoringIbu = new System.Windows.Forms.Button();
+            this.button_SubmitIbu = new System.Windows.Forms.Button();
+            this.label60 = new System.Windows.Forms.Label();
+            this.pictureBox_backMonitoringIbu = new System.Windows.Forms.PictureBox();
+            this.panel_monitoringAnak = new System.Windows.Forms.Panel();
+            this.button2 = new System.Windows.Forms.Button();
+            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.label64 = new System.Windows.Forms.Label();
+            this.pictureBox13 = new System.Windows.Forms.PictureBox();
+            this.pictureBox10 = new System.Windows.Forms.PictureBox();
+            this.dateTimePicker2 = new System.Windows.Forms.DateTimePicker();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.label75 = new System.Windows.Forms.Label();
+            this.label76 = new System.Windows.Forms.Label();
+            this.label77 = new System.Windows.Forms.Label();
+            this.button7 = new System.Windows.Forms.Button();
+            this.label78 = new System.Windows.Forms.Label();
+>>>>>>> 47e068f (monitoring)
             this.panel_login.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -208,10 +295,19 @@ namespace Stunting_ITPM
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox_backAnakTidakStunting)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
             this.panel_solusijaninTidakSehat.SuspendLayout();
+<<<<<<< HEAD
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox_backSolusiJaninTidakSehat)).BeginInit();
             this.panel_solusiJaninSehat.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox_backSolusiJaninSehat)).BeginInit();
+=======
+            this.panel_solusiJaninSehat.SuspendLayout();
+            this.panel_janinTidakSehat.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox_backJaninTidakSehat)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox_backSolusiJaninSehat)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox_backSolusiJaninTidakSehat)).BeginInit();
+>>>>>>> 47e068f (monitoring)
             this.panel_tentangAplikasi.SuspendLayout();
             this.panel_solusiAnakStunting.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox_backSolusiAnakStunting)).BeginInit();
@@ -220,12 +316,23 @@ namespace Stunting_ITPM
             this.panel_anakStunting.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox_backAnakStunting)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).BeginInit();
+<<<<<<< HEAD
             this.panel_janinTidakSehat.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox_backJaninTidakSehat)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
             this.panel_register.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).BeginInit();
+=======
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
+            this.panel_registrasi.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox_backRegistrasi)).BeginInit();
+            this.panel_MonitoringIbu.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox_backMonitoringIbu)).BeginInit();
+            this.panel_monitoringAnak.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
+>>>>>>> 47e068f (monitoring)
             this.SuspendLayout();
             // 
             // panel_login
@@ -241,8 +348,13 @@ namespace Stunting_ITPM
             this.panel_login.Controls.Add(this.label1);
             this.panel_login.Controls.Add(this.button_register);
             this.panel_login.Controls.Add(this.button_login);
+<<<<<<< HEAD
             this.panel_login.Location = new System.Drawing.Point(0, 38);
             this.panel_login.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.panel_login.Location = new System.Drawing.Point(0, 18);
+            this.panel_login.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.panel_login.Name = "panel_login";
             this.panel_login.Size = new System.Drawing.Size(463, 807);
             this.panel_login.TabIndex = 0;
@@ -255,7 +367,11 @@ namespace Stunting_ITPM
             this.checkBox_showPassword.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.checkBox_showPassword.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.checkBox_showPassword.Location = new System.Drawing.Point(247, 348);
+<<<<<<< HEAD
             this.checkBox_showPassword.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.checkBox_showPassword.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.checkBox_showPassword.Name = "checkBox_showPassword";
             this.checkBox_showPassword.Size = new System.Drawing.Size(163, 28);
             this.checkBox_showPassword.TabIndex = 4;
@@ -268,7 +384,11 @@ namespace Stunting_ITPM
             this.pictureBox5.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
             this.pictureBox5.Location = new System.Drawing.Point(405, 6);
+<<<<<<< HEAD
             this.pictureBox5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.pictureBox5.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(51, 53);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -281,7 +401,11 @@ namespace Stunting_ITPM
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(92, 85);
+<<<<<<< HEAD
             this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(271, 156);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -308,7 +432,11 @@ namespace Stunting_ITPM
             this.textBox_password.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox_password.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(53)))), ((int)(((byte)(135)))), ((int)(((byte)(53)))));
             this.textBox_password.Location = new System.Drawing.Point(169, 311);
+<<<<<<< HEAD
             this.textBox_password.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.textBox_password.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.textBox_password.Name = "textBox_password";
             this.textBox_password.PasswordChar = '*';
             this.textBox_password.Size = new System.Drawing.Size(252, 28);
@@ -320,7 +448,11 @@ namespace Stunting_ITPM
             this.textBox_username.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox_username.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(53)))), ((int)(((byte)(135)))), ((int)(((byte)(53)))));
             this.textBox_username.Location = new System.Drawing.Point(169, 270);
+<<<<<<< HEAD
             this.textBox_username.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.textBox_username.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.textBox_username.Name = "textBox_username";
             this.textBox_username.Size = new System.Drawing.Size(252, 28);
             this.textBox_username.TabIndex = 1;
@@ -347,12 +479,20 @@ namespace Stunting_ITPM
             this.button_register.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_register.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.button_register.Location = new System.Drawing.Point(169, 613);
+<<<<<<< HEAD
             this.button_register.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.button_register.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.button_register.Name = "button_register";
             this.button_register.Size = new System.Drawing.Size(141, 58);
             this.button_register.TabIndex = 7;
             this.button_register.Text = "Register";
             this.button_register.UseVisualStyleBackColor = false;
+<<<<<<< HEAD
+=======
+            this.button_register.Click += new System.EventHandler(this.button_register_Click);
+>>>>>>> 47e068f (monitoring)
             // 
             // button_login
             // 
@@ -361,7 +501,11 @@ namespace Stunting_ITPM
             this.button_login.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_login.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.button_login.Location = new System.Drawing.Point(169, 532);
+<<<<<<< HEAD
             this.button_login.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.button_login.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.button_login.Name = "button_login";
             this.button_login.Size = new System.Drawing.Size(141, 58);
             this.button_login.TabIndex = 7;
@@ -374,6 +518,7 @@ namespace Stunting_ITPM
             this.panel_pilih.BackColor = System.Drawing.Color.White;
             this.panel_pilih.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel_pilih.BackgroundImage")));
             this.panel_pilih.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+<<<<<<< HEAD
             this.panel_pilih.Controls.Add(this.pictureBox_backInputPilih);
             this.panel_pilih.Controls.Add(this.button_lanjutPilih);
             this.panel_pilih.Controls.Add(this.pictureBox_exitPilih);
@@ -384,16 +529,47 @@ namespace Stunting_ITPM
             this.panel_pilih.Controls.Add(this.radioButton_mengandung);
             this.panel_pilih.Location = new System.Drawing.Point(0, 38);
             this.panel_pilih.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.panel_pilih.Controls.Add(this.label43);
+            this.panel_pilih.Controls.Add(this.pictureBox_backInputPilih);
+            this.panel_pilih.Controls.Add(this.pictureBox_exitPilih);
+            this.panel_pilih.Controls.Add(this.pictureBox_ortuAnak);
+            this.panel_pilih.Controls.Add(this.label37);
+            this.panel_pilih.Controls.Add(this.pictureBox_mengandung);
+            this.panel_pilih.Controls.Add(this.pictureBox2);
+            this.panel_pilih.Location = new System.Drawing.Point(0, 18);
+            this.panel_pilih.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.panel_pilih.Name = "panel_pilih";
             this.panel_pilih.Size = new System.Drawing.Size(463, 807);
             this.panel_pilih.TabIndex = 8;
             // 
+<<<<<<< HEAD
+=======
+            // label43
+            // 
+            this.label43.AutoSize = true;
+            this.label43.BackColor = System.Drawing.Color.Transparent;
+            this.label43.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label43.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label43.Location = new System.Drawing.Point(11, 452);
+            this.label43.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label43.Name = "label43";
+            this.label43.Size = new System.Drawing.Size(187, 27);
+            this.label43.TabIndex = 13;
+            this.label43.Text = "Ibu Mengandung";
+            // 
+>>>>>>> 47e068f (monitoring)
             // pictureBox_backInputPilih
             // 
             this.pictureBox_backInputPilih.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox_backInputPilih.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox_backInputPilih.Image")));
             this.pictureBox_backInputPilih.Location = new System.Drawing.Point(4, 4);
+<<<<<<< HEAD
             this.pictureBox_backInputPilih.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.pictureBox_backInputPilih.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.pictureBox_backInputPilih.Name = "pictureBox_backInputPilih";
             this.pictureBox_backInputPilih.Size = new System.Drawing.Size(65, 65);
             this.pictureBox_backInputPilih.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -401,6 +577,7 @@ namespace Stunting_ITPM
             this.pictureBox_backInputPilih.TabStop = false;
             this.pictureBox_backInputPilih.Click += new System.EventHandler(this.pictureBox_backInputPilih_Click);
             // 
+<<<<<<< HEAD
             // button_lanjutPilih
             // 
             this.button_lanjutPilih.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(83)))), ((int)(((byte)(214)))), ((int)(((byte)(84)))));
@@ -416,12 +593,18 @@ namespace Stunting_ITPM
             this.button_lanjutPilih.UseVisualStyleBackColor = false;
             this.button_lanjutPilih.Click += new System.EventHandler(this.button_lanjutPilih_Click);
             // 
+=======
+>>>>>>> 47e068f (monitoring)
             // pictureBox_exitPilih
             // 
             this.pictureBox_exitPilih.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox_exitPilih.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox_exitPilih.Image")));
             this.pictureBox_exitPilih.Location = new System.Drawing.Point(392, 4);
+<<<<<<< HEAD
             this.pictureBox_exitPilih.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.pictureBox_exitPilih.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.pictureBox_exitPilih.Name = "pictureBox_exitPilih";
             this.pictureBox_exitPilih.Size = new System.Drawing.Size(65, 65);
             this.pictureBox_exitPilih.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -434,7 +617,11 @@ namespace Stunting_ITPM
             this.pictureBox_ortuAnak.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox_ortuAnak.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox_ortuAnak.Image")));
             this.pictureBox_ortuAnak.Location = new System.Drawing.Point(247, 272);
+<<<<<<< HEAD
             this.pictureBox_ortuAnak.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.pictureBox_ortuAnak.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.pictureBox_ortuAnak.Name = "pictureBox_ortuAnak";
             this.pictureBox_ortuAnak.Size = new System.Drawing.Size(200, 174);
             this.pictureBox_ortuAnak.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -442,12 +629,33 @@ namespace Stunting_ITPM
             this.pictureBox_ortuAnak.TabStop = false;
             this.pictureBox_ortuAnak.Click += new System.EventHandler(this.pictureBox_ortuAnak_Click);
             // 
+<<<<<<< HEAD
+=======
+            // label37
+            // 
+            this.label37.AutoSize = true;
+            this.label37.BackColor = System.Drawing.Color.Transparent;
+            this.label37.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label37.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label37.Location = new System.Drawing.Point(252, 452);
+            this.label37.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label37.Name = "label37";
+            this.label37.Size = new System.Drawing.Size(176, 27);
+            this.label37.TabIndex = 6;
+            this.label37.Text = "Orang Tua Anak";
+            this.label37.Click += new System.EventHandler(this.label37_Click);
+            // 
+>>>>>>> 47e068f (monitoring)
             // pictureBox_mengandung
             // 
             this.pictureBox_mengandung.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox_mengandung.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox_mengandung.Image")));
             this.pictureBox_mengandung.Location = new System.Drawing.Point(4, 272);
+<<<<<<< HEAD
             this.pictureBox_mengandung.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.pictureBox_mengandung.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.pictureBox_mengandung.Name = "pictureBox_mengandung";
             this.pictureBox_mengandung.Size = new System.Drawing.Size(200, 174);
             this.pictureBox_mengandung.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -460,13 +668,18 @@ namespace Stunting_ITPM
             this.pictureBox2.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
             this.pictureBox2.Location = new System.Drawing.Point(92, 38);
+<<<<<<< HEAD
             this.pictureBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(271, 156);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox2.TabIndex = 9;
             this.pictureBox2.TabStop = false;
             // 
+<<<<<<< HEAD
             // radioButton_ortuAnak
             // 
             this.radioButton_ortuAnak.AutoSize = true;
@@ -497,6 +710,8 @@ namespace Stunting_ITPM
             this.radioButton_mengandung.Text = "Ibu Mengandung";
             this.radioButton_mengandung.UseVisualStyleBackColor = false;
             // 
+=======
+>>>>>>> 47e068f (monitoring)
             // panel_inputMengandung
             // 
             this.panel_inputMengandung.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel_inputMengandung.BackgroundImage")));
@@ -510,8 +725,13 @@ namespace Stunting_ITPM
             this.panel_inputMengandung.Controls.Add(this.panel6);
             this.panel_inputMengandung.Controls.Add(this.panel3);
             this.panel_inputMengandung.Controls.Add(this.panel4);
+<<<<<<< HEAD
             this.panel_inputMengandung.Location = new System.Drawing.Point(0, 38);
             this.panel_inputMengandung.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.panel_inputMengandung.Location = new System.Drawing.Point(0, 18);
+            this.panel_inputMengandung.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.panel_inputMengandung.Name = "panel_inputMengandung";
             this.panel_inputMengandung.Size = new System.Drawing.Size(463, 807);
             this.panel_inputMengandung.TabIndex = 9;
@@ -523,7 +743,11 @@ namespace Stunting_ITPM
             this.panel2.Controls.Add(this.label4);
             this.panel2.Controls.Add(this.radioButton_yaAlkohol);
             this.panel2.Location = new System.Drawing.Point(24, 169);
+<<<<<<< HEAD
             this.panel2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.panel2.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(412, 96);
             this.panel2.TabIndex = 12;
@@ -534,7 +758,11 @@ namespace Stunting_ITPM
             this.radioButton_tidakAlkohol.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButton_tidakAlkohol.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.radioButton_tidakAlkohol.Location = new System.Drawing.Point(109, 63);
+<<<<<<< HEAD
             this.radioButton_tidakAlkohol.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.radioButton_tidakAlkohol.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.radioButton_tidakAlkohol.Name = "radioButton_tidakAlkohol";
             this.radioButton_tidakAlkohol.Size = new System.Drawing.Size(78, 28);
             this.radioButton_tidakAlkohol.TabIndex = 1;
@@ -560,7 +788,11 @@ namespace Stunting_ITPM
             this.radioButton_yaAlkohol.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButton_yaAlkohol.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.radioButton_yaAlkohol.Location = new System.Drawing.Point(13, 63);
+<<<<<<< HEAD
             this.radioButton_yaAlkohol.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.radioButton_yaAlkohol.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.radioButton_yaAlkohol.Name = "radioButton_yaAlkohol";
             this.radioButton_yaAlkohol.Size = new System.Drawing.Size(52, 28);
             this.radioButton_yaAlkohol.TabIndex = 1;
@@ -575,7 +807,11 @@ namespace Stunting_ITPM
             this.panel1.Controls.Add(this.label3);
             this.panel1.Controls.Add(this.radioButton_yaMerokok);
             this.panel1.Location = new System.Drawing.Point(24, 76);
+<<<<<<< HEAD
             this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.panel1.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(412, 85);
             this.panel1.TabIndex = 12;
@@ -586,7 +822,11 @@ namespace Stunting_ITPM
             this.radioButton_tidakMerokok.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButton_tidakMerokok.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.radioButton_tidakMerokok.Location = new System.Drawing.Point(109, 42);
+<<<<<<< HEAD
             this.radioButton_tidakMerokok.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.radioButton_tidakMerokok.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.radioButton_tidakMerokok.Name = "radioButton_tidakMerokok";
             this.radioButton_tidakMerokok.Size = new System.Drawing.Size(78, 28);
             this.radioButton_tidakMerokok.TabIndex = 1;
@@ -612,7 +852,11 @@ namespace Stunting_ITPM
             this.radioButton_yaMerokok.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButton_yaMerokok.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.radioButton_yaMerokok.Location = new System.Drawing.Point(13, 42);
+<<<<<<< HEAD
             this.radioButton_yaMerokok.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.radioButton_yaMerokok.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.radioButton_yaMerokok.Name = "radioButton_yaMerokok";
             this.radioButton_yaMerokok.Size = new System.Drawing.Size(52, 28);
             this.radioButton_yaMerokok.TabIndex = 1;
@@ -625,7 +869,11 @@ namespace Stunting_ITPM
             this.pictureBox_backInputMengandung.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox_backInputMengandung.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox_backInputMengandung.Image")));
             this.pictureBox_backInputMengandung.Location = new System.Drawing.Point(4, 4);
+<<<<<<< HEAD
             this.pictureBox_backInputMengandung.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.pictureBox_backInputMengandung.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.pictureBox_backInputMengandung.Name = "pictureBox_backInputMengandung";
             this.pictureBox_backInputMengandung.Size = new System.Drawing.Size(65, 65);
             this.pictureBox_backInputMengandung.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -640,7 +888,11 @@ namespace Stunting_ITPM
             this.button_lanjutMengandung.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_lanjutMengandung.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.button_lanjutMengandung.Location = new System.Drawing.Point(160, 727);
+<<<<<<< HEAD
             this.button_lanjutMengandung.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.button_lanjutMengandung.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.button_lanjutMengandung.Name = "button_lanjutMengandung";
             this.button_lanjutMengandung.Size = new System.Drawing.Size(141, 58);
             this.button_lanjutMengandung.TabIndex = 10;
@@ -653,7 +905,11 @@ namespace Stunting_ITPM
             this.pictureBox4.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
             this.pictureBox4.Location = new System.Drawing.Point(393, 4);
+<<<<<<< HEAD
             this.pictureBox4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.pictureBox4.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(65, 65);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -668,7 +924,11 @@ namespace Stunting_ITPM
             this.panel5.Controls.Add(this.label7);
             this.panel5.Controls.Add(this.radioButton_yaVitamin);
             this.panel5.Location = new System.Drawing.Point(24, 501);
+<<<<<<< HEAD
             this.panel5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.panel5.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(412, 106);
             this.panel5.TabIndex = 12;
@@ -679,7 +939,11 @@ namespace Stunting_ITPM
             this.radioButton_tidakVitamin.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButton_tidakVitamin.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.radioButton_tidakVitamin.Location = new System.Drawing.Point(109, 68);
+<<<<<<< HEAD
             this.radioButton_tidakVitamin.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.radioButton_tidakVitamin.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.radioButton_tidakVitamin.Name = "radioButton_tidakVitamin";
             this.radioButton_tidakVitamin.Size = new System.Drawing.Size(78, 28);
             this.radioButton_tidakVitamin.TabIndex = 1;
@@ -705,7 +969,11 @@ namespace Stunting_ITPM
             this.radioButton_yaVitamin.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButton_yaVitamin.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.radioButton_yaVitamin.Location = new System.Drawing.Point(9, 68);
+<<<<<<< HEAD
             this.radioButton_yaVitamin.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.radioButton_yaVitamin.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.radioButton_yaVitamin.Name = "radioButton_yaVitamin";
             this.radioButton_yaVitamin.Size = new System.Drawing.Size(52, 28);
             this.radioButton_yaVitamin.TabIndex = 1;
@@ -720,7 +988,11 @@ namespace Stunting_ITPM
             this.panel6.Controls.Add(this.label8);
             this.panel6.Controls.Add(this.radioButton_yaStress);
             this.panel6.Location = new System.Drawing.Point(21, 614);
+<<<<<<< HEAD
             this.panel6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.panel6.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.panel6.Name = "panel6";
             this.panel6.Size = new System.Drawing.Size(412, 106);
             this.panel6.TabIndex = 12;
@@ -731,7 +1003,11 @@ namespace Stunting_ITPM
             this.radioButton_tidakStress.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButton_tidakStress.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.radioButton_tidakStress.Location = new System.Drawing.Point(112, 65);
+<<<<<<< HEAD
             this.radioButton_tidakStress.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.radioButton_tidakStress.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.radioButton_tidakStress.Name = "radioButton_tidakStress";
             this.radioButton_tidakStress.Size = new System.Drawing.Size(78, 28);
             this.radioButton_tidakStress.TabIndex = 1;
@@ -757,7 +1033,11 @@ namespace Stunting_ITPM
             this.radioButton_yaStress.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButton_yaStress.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.radioButton_yaStress.Location = new System.Drawing.Point(12, 65);
+<<<<<<< HEAD
             this.radioButton_yaStress.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.radioButton_yaStress.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.radioButton_yaStress.Name = "radioButton_yaStress";
             this.radioButton_yaStress.Size = new System.Drawing.Size(52, 28);
             this.radioButton_yaStress.TabIndex = 1;
@@ -772,7 +1052,11 @@ namespace Stunting_ITPM
             this.panel3.Controls.Add(this.label5);
             this.panel3.Controls.Add(this.radioButton_yaBuah);
             this.panel3.Location = new System.Drawing.Point(24, 274);
+<<<<<<< HEAD
             this.panel3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.panel3.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(413, 106);
             this.panel3.TabIndex = 12;
@@ -783,7 +1067,11 @@ namespace Stunting_ITPM
             this.radioButton_tidakBuah.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButton_tidakBuah.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.radioButton_tidakBuah.Location = new System.Drawing.Point(109, 68);
+<<<<<<< HEAD
             this.radioButton_tidakBuah.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.radioButton_tidakBuah.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.radioButton_tidakBuah.Name = "radioButton_tidakBuah";
             this.radioButton_tidakBuah.Size = new System.Drawing.Size(78, 28);
             this.radioButton_tidakBuah.TabIndex = 1;
@@ -809,7 +1097,11 @@ namespace Stunting_ITPM
             this.radioButton_yaBuah.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButton_yaBuah.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.radioButton_yaBuah.Location = new System.Drawing.Point(9, 68);
+<<<<<<< HEAD
             this.radioButton_yaBuah.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.radioButton_yaBuah.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.radioButton_yaBuah.Name = "radioButton_yaBuah";
             this.radioButton_yaBuah.Size = new System.Drawing.Size(52, 28);
             this.radioButton_yaBuah.TabIndex = 1;
@@ -824,7 +1116,11 @@ namespace Stunting_ITPM
             this.panel4.Controls.Add(this.label6);
             this.panel4.Controls.Add(this.radioButton_yaSayur);
             this.panel4.Location = new System.Drawing.Point(24, 388);
+<<<<<<< HEAD
             this.panel4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.panel4.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(413, 106);
             this.panel4.TabIndex = 12;
@@ -835,7 +1131,11 @@ namespace Stunting_ITPM
             this.radioButton_tidakSayur.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButton_tidakSayur.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.radioButton_tidakSayur.Location = new System.Drawing.Point(109, 65);
+<<<<<<< HEAD
             this.radioButton_tidakSayur.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.radioButton_tidakSayur.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.radioButton_tidakSayur.Name = "radioButton_tidakSayur";
             this.radioButton_tidakSayur.Size = new System.Drawing.Size(78, 28);
             this.radioButton_tidakSayur.TabIndex = 1;
@@ -861,7 +1161,11 @@ namespace Stunting_ITPM
             this.radioButton_yaSayur.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButton_yaSayur.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.radioButton_yaSayur.Location = new System.Drawing.Point(9, 65);
+<<<<<<< HEAD
             this.radioButton_yaSayur.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.radioButton_yaSayur.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.radioButton_yaSayur.Name = "radioButton_yaSayur";
             this.radioButton_yaSayur.Size = new System.Drawing.Size(52, 28);
             this.radioButton_yaSayur.TabIndex = 1;
@@ -873,7 +1177,10 @@ namespace Stunting_ITPM
             // 
             this.panel_inputOrtuAnak.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel_inputOrtuAnak.BackgroundImage")));
             this.panel_inputOrtuAnak.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+<<<<<<< HEAD
             this.panel_inputOrtuAnak.Controls.Add(this.panel_register);
+=======
+>>>>>>> 47e068f (monitoring)
             this.panel_inputOrtuAnak.Controls.Add(this.pictureBox_backInputOrtuAnak);
             this.panel_inputOrtuAnak.Controls.Add(this.radioButton_lakiLaki);
             this.panel_inputOrtuAnak.Controls.Add(this.textBox_umurBulan);
@@ -888,12 +1195,21 @@ namespace Stunting_ITPM
             this.panel_inputOrtuAnak.Controls.Add(this.label10);
             this.panel_inputOrtuAnak.Controls.Add(this.label15);
             this.panel_inputOrtuAnak.Controls.Add(this.label13);
+<<<<<<< HEAD
+=======
+            this.panel_inputOrtuAnak.Controls.Add(this.label59);
+>>>>>>> 47e068f (monitoring)
             this.panel_inputOrtuAnak.Controls.Add(this.label19);
             this.panel_inputOrtuAnak.Controls.Add(this.label12);
             this.panel_inputOrtuAnak.Controls.Add(this.button_resetInputOrtuAnak);
             this.panel_inputOrtuAnak.Controls.Add(this.radioButton_perempuan);
+<<<<<<< HEAD
             this.panel_inputOrtuAnak.Location = new System.Drawing.Point(0, 38);
             this.panel_inputOrtuAnak.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.panel_inputOrtuAnak.Location = new System.Drawing.Point(0, 15);
+            this.panel_inputOrtuAnak.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.panel_inputOrtuAnak.Name = "panel_inputOrtuAnak";
             this.panel_inputOrtuAnak.Size = new System.Drawing.Size(463, 807);
             this.panel_inputOrtuAnak.TabIndex = 10;
@@ -905,7 +1221,11 @@ namespace Stunting_ITPM
             this.pictureBox_backInputOrtuAnak.ErrorImage = null;
             this.pictureBox_backInputOrtuAnak.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox_backInputOrtuAnak.Image")));
             this.pictureBox_backInputOrtuAnak.Location = new System.Drawing.Point(4, 4);
+<<<<<<< HEAD
             this.pictureBox_backInputOrtuAnak.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.pictureBox_backInputOrtuAnak.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.pictureBox_backInputOrtuAnak.Name = "pictureBox_backInputOrtuAnak";
             this.pictureBox_backInputOrtuAnak.Size = new System.Drawing.Size(65, 65);
             this.pictureBox_backInputOrtuAnak.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -920,7 +1240,11 @@ namespace Stunting_ITPM
             this.radioButton_lakiLaki.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButton_lakiLaki.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.radioButton_lakiLaki.Location = new System.Drawing.Point(183, 238);
+<<<<<<< HEAD
             this.radioButton_lakiLaki.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.radioButton_lakiLaki.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.radioButton_lakiLaki.Name = "radioButton_lakiLaki";
             this.radioButton_lakiLaki.Size = new System.Drawing.Size(102, 28);
             this.radioButton_lakiLaki.TabIndex = 1;
@@ -933,47 +1257,85 @@ namespace Stunting_ITPM
             this.textBox_umurBulan.Font = new System.Drawing.Font("Microsoft YaHei UI", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox_umurBulan.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(53)))), ((int)(((byte)(135)))), ((int)(((byte)(53)))));
             this.textBox_umurBulan.Location = new System.Drawing.Point(315, 187);
+<<<<<<< HEAD
             this.textBox_umurBulan.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBox_umurBulan.Name = "textBox_umurBulan";
             this.textBox_umurBulan.Size = new System.Drawing.Size(40, 25);
             this.textBox_umurBulan.TabIndex = 1;
+=======
+            this.textBox_umurBulan.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox_umurBulan.Name = "textBox_umurBulan";
+            this.textBox_umurBulan.Size = new System.Drawing.Size(40, 25);
+            this.textBox_umurBulan.TabIndex = 1;
+            this.textBox_umurBulan.TextChanged += new System.EventHandler(this.textBox_umurBulan_TextChanged);
+            this.textBox_umurBulan.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox_umurBulan_KeyPress);
+>>>>>>> 47e068f (monitoring)
             // 
             // textBox_panjangBayi
             // 
             this.textBox_panjangBayi.Font = new System.Drawing.Font("Microsoft YaHei UI", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox_panjangBayi.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(53)))), ((int)(((byte)(135)))), ((int)(((byte)(53)))));
             this.textBox_panjangBayi.Location = new System.Drawing.Point(183, 374);
+<<<<<<< HEAD
             this.textBox_panjangBayi.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBox_panjangBayi.Name = "textBox_panjangBayi";
             this.textBox_panjangBayi.Size = new System.Drawing.Size(160, 25);
             this.textBox_panjangBayi.TabIndex = 1;
+=======
+            this.textBox_panjangBayi.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox_panjangBayi.Name = "textBox_panjangBayi";
+            this.textBox_panjangBayi.Size = new System.Drawing.Size(160, 25);
+            this.textBox_panjangBayi.TabIndex = 1;
+            this.textBox_panjangBayi.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox_panjangBayi_KeyPress);
+>>>>>>> 47e068f (monitoring)
             // 
             // textBox_beratKg
             // 
             this.textBox_beratKg.Font = new System.Drawing.Font("Microsoft YaHei UI", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox_beratKg.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(53)))), ((int)(((byte)(135)))), ((int)(((byte)(53)))));
             this.textBox_beratKg.Location = new System.Drawing.Point(183, 329);
+<<<<<<< HEAD
             this.textBox_beratKg.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBox_beratKg.Name = "textBox_beratKg";
             this.textBox_beratKg.Size = new System.Drawing.Size(160, 25);
             this.textBox_beratKg.TabIndex = 1;
+=======
+            this.textBox_beratKg.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox_beratKg.Name = "textBox_beratKg";
+            this.textBox_beratKg.Size = new System.Drawing.Size(160, 25);
+            this.textBox_beratKg.TabIndex = 1;
+            this.textBox_beratKg.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox_beratKg_KeyPress);
+>>>>>>> 47e068f (monitoring)
             // 
             // textBox_umurTahun
             // 
             this.textBox_umurTahun.Font = new System.Drawing.Font("Microsoft YaHei UI", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox_umurTahun.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(53)))), ((int)(((byte)(135)))), ((int)(((byte)(53)))));
             this.textBox_umurTahun.Location = new System.Drawing.Point(183, 187);
+<<<<<<< HEAD
             this.textBox_umurTahun.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBox_umurTahun.Name = "textBox_umurTahun";
             this.textBox_umurTahun.Size = new System.Drawing.Size(40, 25);
             this.textBox_umurTahun.TabIndex = 1;
+=======
+            this.textBox_umurTahun.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox_umurTahun.Name = "textBox_umurTahun";
+            this.textBox_umurTahun.Size = new System.Drawing.Size(40, 25);
+            this.textBox_umurTahun.TabIndex = 1;
+            this.textBox_umurTahun.TextChanged += new System.EventHandler(this.textBox_umurTahun_TextChanged);
+            this.textBox_umurTahun.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox_umurTahun_KeyPress);
+>>>>>>> 47e068f (monitoring)
             // 
             // pictureBox3
             // 
             this.pictureBox3.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
             this.pictureBox3.Location = new System.Drawing.Point(393, 4);
+<<<<<<< HEAD
             this.pictureBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.pictureBox3.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(65, 65);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -988,7 +1350,11 @@ namespace Stunting_ITPM
             this.button_lanjutInputOrtuAnak.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_lanjutInputOrtuAnak.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.button_lanjutInputOrtuAnak.Location = new System.Drawing.Point(83, 695);
+<<<<<<< HEAD
             this.button_lanjutInputOrtuAnak.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.button_lanjutInputOrtuAnak.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.button_lanjutInputOrtuAnak.Name = "button_lanjutInputOrtuAnak";
             this.button_lanjutInputOrtuAnak.Size = new System.Drawing.Size(141, 58);
             this.button_lanjutInputOrtuAnak.TabIndex = 10;
@@ -1079,6 +1445,23 @@ namespace Stunting_ITPM
             this.label13.Text = "Berat Badan";
             this.label13.Click += new System.EventHandler(this.label9_Click);
             // 
+<<<<<<< HEAD
+=======
+            // label59
+            // 
+            this.label59.AutoSize = true;
+            this.label59.BackColor = System.Drawing.Color.Transparent;
+            this.label59.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label59.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label59.Location = new System.Drawing.Point(128, 114);
+            this.label59.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label59.Name = "label59";
+            this.label59.Size = new System.Drawing.Size(176, 27);
+            this.label59.TabIndex = 0;
+            this.label59.Text = "Form Data Anak";
+            this.label59.Click += new System.EventHandler(this.label9_Click);
+            // 
+>>>>>>> 47e068f (monitoring)
             // label19
             // 
             this.label19.AutoSize = true;
@@ -1088,9 +1471,15 @@ namespace Stunting_ITPM
             this.label19.Location = new System.Drawing.Point(19, 187);
             this.label19.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label19.Name = "label19";
+<<<<<<< HEAD
             this.label19.Size = new System.Drawing.Size(69, 27);
             this.label19.TabIndex = 0;
             this.label19.Text = "Umur";
+=======
+            this.label19.Size = new System.Drawing.Size(133, 27);
+            this.label19.TabIndex = 0;
+            this.label19.Text = "Umur Anak ";
+>>>>>>> 47e068f (monitoring)
             this.label19.Click += new System.EventHandler(this.label9_Click);
             // 
             // label12
@@ -1114,7 +1503,11 @@ namespace Stunting_ITPM
             this.button_resetInputOrtuAnak.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_resetInputOrtuAnak.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.button_resetInputOrtuAnak.Location = new System.Drawing.Point(249, 695);
+<<<<<<< HEAD
             this.button_resetInputOrtuAnak.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.button_resetInputOrtuAnak.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.button_resetInputOrtuAnak.Name = "button_resetInputOrtuAnak";
             this.button_resetInputOrtuAnak.Size = new System.Drawing.Size(141, 58);
             this.button_resetInputOrtuAnak.TabIndex = 13;
@@ -1129,7 +1522,11 @@ namespace Stunting_ITPM
             this.radioButton_perempuan.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButton_perempuan.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.radioButton_perempuan.Location = new System.Drawing.Point(183, 273);
+<<<<<<< HEAD
             this.radioButton_perempuan.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.radioButton_perempuan.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.radioButton_perempuan.Name = "radioButton_perempuan";
             this.radioButton_perempuan.Size = new System.Drawing.Size(129, 28);
             this.radioButton_perempuan.TabIndex = 1;
@@ -1145,8 +1542,13 @@ namespace Stunting_ITPM
             this.panel_janinSehat.Controls.Add(this.pictureBox_backJaninSehat);
             this.panel_janinSehat.Controls.Add(this.button_lanjutkanJaninSehat);
             this.panel_janinSehat.Controls.Add(this.label9);
+<<<<<<< HEAD
             this.panel_janinSehat.Location = new System.Drawing.Point(0, 38);
             this.panel_janinSehat.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.panel_janinSehat.Location = new System.Drawing.Point(0, 18);
+            this.panel_janinSehat.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.panel_janinSehat.Name = "panel_janinSehat";
             this.panel_janinSehat.Size = new System.Drawing.Size(463, 807);
             this.panel_janinSehat.TabIndex = 10;
@@ -1157,7 +1559,11 @@ namespace Stunting_ITPM
             this.pictureBox7.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox7.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox7.Image")));
             this.pictureBox7.Location = new System.Drawing.Point(393, 4);
+<<<<<<< HEAD
             this.pictureBox7.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.pictureBox7.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.pictureBox7.Name = "pictureBox7";
             this.pictureBox7.Size = new System.Drawing.Size(65, 65);
             this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -1171,7 +1577,11 @@ namespace Stunting_ITPM
             this.pictureBox_backJaninSehat.ErrorImage = null;
             this.pictureBox_backJaninSehat.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox_backJaninSehat.Image")));
             this.pictureBox_backJaninSehat.Location = new System.Drawing.Point(4, 4);
+<<<<<<< HEAD
             this.pictureBox_backJaninSehat.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.pictureBox_backJaninSehat.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.pictureBox_backJaninSehat.Name = "pictureBox_backJaninSehat";
             this.pictureBox_backJaninSehat.Size = new System.Drawing.Size(65, 65);
             this.pictureBox_backJaninSehat.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -1186,7 +1596,11 @@ namespace Stunting_ITPM
             this.button_lanjutkanJaninSehat.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_lanjutkanJaninSehat.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.button_lanjutkanJaninSehat.Location = new System.Drawing.Point(157, 662);
+<<<<<<< HEAD
             this.button_lanjutkanJaninSehat.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.button_lanjutkanJaninSehat.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.button_lanjutkanJaninSehat.Name = "button_lanjutkanJaninSehat";
             this.button_lanjutkanJaninSehat.Size = new System.Drawing.Size(141, 58);
             this.button_lanjutkanJaninSehat.TabIndex = 14;
@@ -1216,8 +1630,13 @@ namespace Stunting_ITPM
             this.panel_anakTidakStunting.Controls.Add(this.pictureBox6);
             this.panel_anakTidakStunting.Controls.Add(this.button1);
             this.panel_anakTidakStunting.Controls.Add(this.label20);
+<<<<<<< HEAD
             this.panel_anakTidakStunting.Location = new System.Drawing.Point(0, 38);
             this.panel_anakTidakStunting.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.panel_anakTidakStunting.Location = new System.Drawing.Point(0, 18);
+            this.panel_anakTidakStunting.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.panel_anakTidakStunting.Name = "panel_anakTidakStunting";
             this.panel_anakTidakStunting.Size = new System.Drawing.Size(463, 807);
             this.panel_anakTidakStunting.TabIndex = 10;
@@ -1228,7 +1647,11 @@ namespace Stunting_ITPM
             this.pictureBox_backAnakTidakStunting.ErrorImage = null;
             this.pictureBox_backAnakTidakStunting.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox_backAnakTidakStunting.Image")));
             this.pictureBox_backAnakTidakStunting.Location = new System.Drawing.Point(4, 4);
+<<<<<<< HEAD
             this.pictureBox_backAnakTidakStunting.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.pictureBox_backAnakTidakStunting.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.pictureBox_backAnakTidakStunting.Name = "pictureBox_backAnakTidakStunting";
             this.pictureBox_backAnakTidakStunting.Size = new System.Drawing.Size(65, 65);
             this.pictureBox_backAnakTidakStunting.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -1241,7 +1664,11 @@ namespace Stunting_ITPM
             this.pictureBox6.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox6.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox6.Image")));
             this.pictureBox6.Location = new System.Drawing.Point(393, 4);
+<<<<<<< HEAD
             this.pictureBox6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.pictureBox6.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.pictureBox6.Name = "pictureBox6";
             this.pictureBox6.Size = new System.Drawing.Size(65, 65);
             this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -1256,7 +1683,11 @@ namespace Stunting_ITPM
             this.button1.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.button1.Location = new System.Drawing.Point(157, 662);
+<<<<<<< HEAD
             this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.button1.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(141, 58);
             this.button1.TabIndex = 14;
@@ -1283,6 +1714,11 @@ namespace Stunting_ITPM
             // 
             this.panel_solusijaninTidakSehat.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel_solusijaninTidakSehat.BackgroundImage")));
             this.panel_solusijaninTidakSehat.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+<<<<<<< HEAD
+=======
+            this.panel_solusijaninTidakSehat.Controls.Add(this.panel_solusiJaninSehat);
+            this.panel_solusijaninTidakSehat.Controls.Add(this.button_MonitoringIbu);
+>>>>>>> 47e068f (monitoring)
             this.panel_solusijaninTidakSehat.Controls.Add(this.button_menuAwalJaninTidakSehat);
             this.panel_solusijaninTidakSehat.Controls.Add(this.button_tentangAplikasiJaninTidakSehat);
             this.panel_solusijaninTidakSehat.Controls.Add(this.label18);
@@ -1294,13 +1730,19 @@ namespace Stunting_ITPM
             this.panel_solusijaninTidakSehat.Controls.Add(this.label23);
             this.panel_solusijaninTidakSehat.Controls.Add(this.label22);
             this.panel_solusijaninTidakSehat.Controls.Add(this.label21);
+<<<<<<< HEAD
             this.panel_solusijaninTidakSehat.Location = new System.Drawing.Point(0, 38);
             this.panel_solusijaninTidakSehat.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.panel_solusijaninTidakSehat.Location = new System.Drawing.Point(0, 0);
+            this.panel_solusijaninTidakSehat.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.panel_solusijaninTidakSehat.Name = "panel_solusijaninTidakSehat";
             this.panel_solusijaninTidakSehat.Size = new System.Drawing.Size(463, 807);
             this.panel_solusijaninTidakSehat.TabIndex = 11;
             this.panel_solusijaninTidakSehat.Paint += new System.Windows.Forms.PaintEventHandler(this.panel7_Paint);
             // 
+<<<<<<< HEAD
             // button_menuAwalJaninTidakSehat
             // 
             this.button_menuAwalJaninTidakSehat.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(83)))), ((int)(((byte)(214)))), ((int)(((byte)(84)))));
@@ -1451,11 +1893,17 @@ namespace Stunting_ITPM
     "at memengaruhi\r\n    nutrisi janin.";
             this.label21.Click += new System.EventHandler(this.label11_Click);
             // 
+=======
+>>>>>>> 47e068f (monitoring)
             // panel_solusiJaninSehat
             // 
             this.panel_solusiJaninSehat.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel_solusiJaninSehat.BackgroundImage")));
             this.panel_solusiJaninSehat.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.panel_solusiJaninSehat.Controls.Add(this.button_tentangAplikasiSolusiJaninSehat);
+<<<<<<< HEAD
+=======
+            this.panel_solusiJaninSehat.Controls.Add(this.panel_janinTidakSehat);
+>>>>>>> 47e068f (monitoring)
             this.panel_solusiJaninSehat.Controls.Add(this.button_menuAwalSolusiJaninSehat);
             this.panel_solusiJaninSehat.Controls.Add(this.pictureBox9);
             this.panel_solusiJaninSehat.Controls.Add(this.pictureBox_backSolusiJaninSehat);
@@ -1465,8 +1913,13 @@ namespace Stunting_ITPM
             this.panel_solusiJaninSehat.Controls.Add(this.label31);
             this.panel_solusiJaninSehat.Controls.Add(this.label32);
             this.panel_solusiJaninSehat.Controls.Add(this.label33);
+<<<<<<< HEAD
             this.panel_solusiJaninSehat.Location = new System.Drawing.Point(0, 38);
             this.panel_solusiJaninSehat.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.panel_solusiJaninSehat.Location = new System.Drawing.Point(0, 0);
+            this.panel_solusiJaninSehat.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.panel_solusiJaninSehat.Name = "panel_solusiJaninSehat";
             this.panel_solusiJaninSehat.Size = new System.Drawing.Size(463, 807);
             this.panel_solusiJaninSehat.TabIndex = 12;
@@ -1478,7 +1931,11 @@ namespace Stunting_ITPM
             this.button_tentangAplikasiSolusiJaninSehat.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_tentangAplikasiSolusiJaninSehat.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.button_tentangAplikasiSolusiJaninSehat.Location = new System.Drawing.Point(249, 710);
+<<<<<<< HEAD
             this.button_tentangAplikasiSolusiJaninSehat.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.button_tentangAplikasiSolusiJaninSehat.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.button_tentangAplikasiSolusiJaninSehat.Name = "button_tentangAplikasiSolusiJaninSehat";
             this.button_tentangAplikasiSolusiJaninSehat.Size = new System.Drawing.Size(141, 58);
             this.button_tentangAplikasiSolusiJaninSehat.TabIndex = 21;
@@ -1486,6 +1943,7 @@ namespace Stunting_ITPM
             this.button_tentangAplikasiSolusiJaninSehat.UseVisualStyleBackColor = false;
             this.button_tentangAplikasiSolusiJaninSehat.Click += new System.EventHandler(this.button_tentangAplikasiSolusiJaninSehat_Click);
             // 
+<<<<<<< HEAD
             // button_menuAwalSolusiJaninSehat
             // 
             this.button_menuAwalSolusiJaninSehat.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(83)))), ((int)(((byte)(214)))), ((int)(((byte)(84)))));
@@ -1520,6 +1978,98 @@ namespace Stunting_ITPM
             this.pictureBox_backSolusiJaninSehat.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox_backSolusiJaninSehat.Image")));
             this.pictureBox_backSolusiJaninSehat.Location = new System.Drawing.Point(4, 4);
             this.pictureBox_backSolusiJaninSehat.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            // panel_janinTidakSehat
+            // 
+            this.panel_janinTidakSehat.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel_janinTidakSehat.BackgroundImage")));
+            this.panel_janinTidakSehat.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.panel_janinTidakSehat.Controls.Add(this.pictureBox_backJaninTidakSehat);
+            this.panel_janinTidakSehat.Controls.Add(this.button_lanjutJaninTidakSehat);
+            this.panel_janinTidakSehat.Controls.Add(this.label34);
+            this.panel_janinTidakSehat.Location = new System.Drawing.Point(0, 0);
+            this.panel_janinTidakSehat.Margin = new System.Windows.Forms.Padding(4);
+            this.panel_janinTidakSehat.Name = "panel_janinTidakSehat";
+            this.panel_janinTidakSehat.Size = new System.Drawing.Size(463, 807);
+            this.panel_janinTidakSehat.TabIndex = 15;
+            this.panel_janinTidakSehat.Paint += new System.Windows.Forms.PaintEventHandler(this.panel_janinTidakSehat_Paint);
+            // 
+            // pictureBox_backJaninTidakSehat
+            // 
+            this.pictureBox_backJaninTidakSehat.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox_backJaninTidakSehat.ErrorImage = null;
+            this.pictureBox_backJaninTidakSehat.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox_backJaninTidakSehat.Image")));
+            this.pictureBox_backJaninTidakSehat.Location = new System.Drawing.Point(4, 4);
+            this.pictureBox_backJaninTidakSehat.Margin = new System.Windows.Forms.Padding(4);
+            this.pictureBox_backJaninTidakSehat.Name = "pictureBox_backJaninTidakSehat";
+            this.pictureBox_backJaninTidakSehat.Size = new System.Drawing.Size(65, 65);
+            this.pictureBox_backJaninTidakSehat.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox_backJaninTidakSehat.TabIndex = 14;
+            this.pictureBox_backJaninTidakSehat.TabStop = false;
+            this.pictureBox_backJaninTidakSehat.Click += new System.EventHandler(this.pictureBox_backJaninTidakSehat_Click);
+            // 
+            // button_lanjutJaninTidakSehat
+            // 
+            this.button_lanjutJaninTidakSehat.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(83)))), ((int)(((byte)(214)))), ((int)(((byte)(84)))));
+            this.button_lanjutJaninTidakSehat.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button_lanjutJaninTidakSehat.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button_lanjutJaninTidakSehat.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.button_lanjutJaninTidakSehat.Location = new System.Drawing.Point(157, 662);
+            this.button_lanjutJaninTidakSehat.Margin = new System.Windows.Forms.Padding(4);
+            this.button_lanjutJaninTidakSehat.Name = "button_lanjutJaninTidakSehat";
+            this.button_lanjutJaninTidakSehat.Size = new System.Drawing.Size(141, 58);
+            this.button_lanjutJaninTidakSehat.TabIndex = 14;
+            this.button_lanjutJaninTidakSehat.Text = "Lanjutkan";
+            this.button_lanjutJaninTidakSehat.UseVisualStyleBackColor = false;
+            this.button_lanjutJaninTidakSehat.Click += new System.EventHandler(this.button_lanjutJaninTidakSehat_Click);
+            // 
+            // label34
+            // 
+            this.label34.AutoSize = true;
+            this.label34.BackColor = System.Drawing.Color.Transparent;
+            this.label34.Font = new System.Drawing.Font("Microsoft YaHei UI", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label34.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label34.Location = new System.Drawing.Point(19, 368);
+            this.label34.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label34.Name = "label34";
+            this.label34.Size = new System.Drawing.Size(399, 40);
+            this.label34.TabIndex = 0;
+            this.label34.Text = "\"Janin Anda Tidak Sehat\"";
+            // 
+            // button_menuAwalSolusiJaninSehat
+            // 
+            this.button_menuAwalSolusiJaninSehat.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(83)))), ((int)(((byte)(214)))), ((int)(((byte)(84)))));
+            this.button_menuAwalSolusiJaninSehat.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button_menuAwalSolusiJaninSehat.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button_menuAwalSolusiJaninSehat.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.button_menuAwalSolusiJaninSehat.Location = new System.Drawing.Point(79, 710);
+            this.button_menuAwalSolusiJaninSehat.Margin = new System.Windows.Forms.Padding(4);
+            this.button_menuAwalSolusiJaninSehat.Name = "button_menuAwalSolusiJaninSehat";
+            this.button_menuAwalSolusiJaninSehat.Size = new System.Drawing.Size(141, 58);
+            this.button_menuAwalSolusiJaninSehat.TabIndex = 21;
+            this.button_menuAwalSolusiJaninSehat.Text = "Menu Awal";
+            this.button_menuAwalSolusiJaninSehat.UseVisualStyleBackColor = false;
+            this.button_menuAwalSolusiJaninSehat.Click += new System.EventHandler(this.button_menuAwalSolusiJaninSehat_Click);
+            // 
+            // pictureBox9
+            // 
+            this.pictureBox9.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox9.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox9.Image")));
+            this.pictureBox9.Location = new System.Drawing.Point(393, 4);
+            this.pictureBox9.Margin = new System.Windows.Forms.Padding(4);
+            this.pictureBox9.Name = "pictureBox9";
+            this.pictureBox9.Size = new System.Drawing.Size(65, 65);
+            this.pictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox9.TabIndex = 13;
+            this.pictureBox9.TabStop = false;
+            this.pictureBox9.Click += new System.EventHandler(this.pictureBox9_Click);
+            // 
+            // pictureBox_backSolusiJaninSehat
+            // 
+            this.pictureBox_backSolusiJaninSehat.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox_backSolusiJaninSehat.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox_backSolusiJaninSehat.Image")));
+            this.pictureBox_backSolusiJaninSehat.Location = new System.Drawing.Point(4, 4);
+            this.pictureBox_backSolusiJaninSehat.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.pictureBox_backSolusiJaninSehat.Name = "pictureBox_backSolusiJaninSehat";
             this.pictureBox_backSolusiJaninSehat.Size = new System.Drawing.Size(65, 65);
             this.pictureBox_backSolusiJaninSehat.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -1533,12 +2083,22 @@ namespace Stunting_ITPM
             this.label35.BackColor = System.Drawing.Color.Transparent;
             this.label35.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label35.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+<<<<<<< HEAD
             this.label35.Location = new System.Drawing.Point(29, 98);
             this.label35.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label35.Name = "label35";
             this.label35.Size = new System.Drawing.Size(384, 27);
             this.label35.TabIndex = 6;
             this.label35.Text = "Menjaga kehamilan agar tetap sehat\r\n";
+=======
+            this.label35.Location = new System.Drawing.Point(85, 81);
+            this.label35.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label35.Name = "label35";
+            this.label35.Size = new System.Drawing.Size(269, 54);
+            this.label35.TabIndex = 6;
+            this.label35.Text = "Cara menjaga kehamilan \r\nagar tetap sehat\r\n";
+            this.label35.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+>>>>>>> 47e068f (monitoring)
             // 
             // label29
             // 
@@ -1606,16 +2166,193 @@ namespace Stunting_ITPM
             this.label33.Text = "1. Menghindari asap rokok.\r\n    Asap rokok dapat dikatakan\r\n    musuh nomor satu " +
     "saat ibu hamil.";
             // 
+<<<<<<< HEAD
+=======
+            // button_MonitoringIbu
+            // 
+            this.button_MonitoringIbu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(83)))), ((int)(((byte)(214)))), ((int)(((byte)(84)))));
+            this.button_MonitoringIbu.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button_MonitoringIbu.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button_MonitoringIbu.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.button_MonitoringIbu.Location = new System.Drawing.Point(161, 703);
+            this.button_MonitoringIbu.Margin = new System.Windows.Forms.Padding(4);
+            this.button_MonitoringIbu.Name = "button_MonitoringIbu";
+            this.button_MonitoringIbu.Size = new System.Drawing.Size(141, 58);
+            this.button_MonitoringIbu.TabIndex = 18;
+            this.button_MonitoringIbu.Text = "Monitoring";
+            this.button_MonitoringIbu.UseVisualStyleBackColor = false;
+            this.button_MonitoringIbu.Click += new System.EventHandler(this.button_MonitoringIbu_Click);
+            // 
+            // button_menuAwalJaninTidakSehat
+            // 
+            this.button_menuAwalJaninTidakSehat.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(83)))), ((int)(((byte)(214)))), ((int)(((byte)(84)))));
+            this.button_menuAwalJaninTidakSehat.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button_menuAwalJaninTidakSehat.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button_menuAwalJaninTidakSehat.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.button_menuAwalJaninTidakSehat.Location = new System.Drawing.Point(15, 703);
+            this.button_menuAwalJaninTidakSehat.Margin = new System.Windows.Forms.Padding(4);
+            this.button_menuAwalJaninTidakSehat.Name = "button_menuAwalJaninTidakSehat";
+            this.button_menuAwalJaninTidakSehat.Size = new System.Drawing.Size(141, 58);
+            this.button_menuAwalJaninTidakSehat.TabIndex = 17;
+            this.button_menuAwalJaninTidakSehat.Text = "Menu Awal";
+            this.button_menuAwalJaninTidakSehat.UseVisualStyleBackColor = false;
+            this.button_menuAwalJaninTidakSehat.Click += new System.EventHandler(this.button_menuAwalJaninTidakSehat_Click);
+            // 
+            // button_tentangAplikasiJaninTidakSehat
+            // 
+            this.button_tentangAplikasiJaninTidakSehat.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(83)))), ((int)(((byte)(214)))), ((int)(((byte)(84)))));
+            this.button_tentangAplikasiJaninTidakSehat.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button_tentangAplikasiJaninTidakSehat.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button_tentangAplikasiJaninTidakSehat.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.button_tentangAplikasiJaninTidakSehat.Location = new System.Drawing.Point(307, 704);
+            this.button_tentangAplikasiJaninTidakSehat.Margin = new System.Windows.Forms.Padding(4);
+            this.button_tentangAplikasiJaninTidakSehat.Name = "button_tentangAplikasiJaninTidakSehat";
+            this.button_tentangAplikasiJaninTidakSehat.Size = new System.Drawing.Size(141, 58);
+            this.button_tentangAplikasiJaninTidakSehat.TabIndex = 16;
+            this.button_tentangAplikasiJaninTidakSehat.Text = "Tentang Aplikasi";
+            this.button_tentangAplikasiJaninTidakSehat.UseVisualStyleBackColor = false;
+            this.button_tentangAplikasiJaninTidakSehat.Click += new System.EventHandler(this.button_tentangAplikasiJaninTidakSehat_Click);
+            // 
+            // label18
+            // 
+            this.label18.AutoSize = true;
+            this.label18.BackColor = System.Drawing.Color.Transparent;
+            this.label18.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label18.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label18.Location = new System.Drawing.Point(48, 81);
+            this.label18.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label18.Name = "label18";
+            this.label18.Size = new System.Drawing.Size(351, 27);
+            this.label18.TabIndex = 15;
+            this.label18.Text = "Solusi bagi janin yang tidak sehat\r\n";
+            // 
+            // pictureBox_backSolusiJaninTidakSehat
+            // 
+            this.pictureBox_backSolusiJaninTidakSehat.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox_backSolusiJaninTidakSehat.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox_backSolusiJaninTidakSehat.Image")));
+            this.pictureBox_backSolusiJaninTidakSehat.Location = new System.Drawing.Point(4, 4);
+            this.pictureBox_backSolusiJaninTidakSehat.Margin = new System.Windows.Forms.Padding(4);
+            this.pictureBox_backSolusiJaninTidakSehat.Name = "pictureBox_backSolusiJaninTidakSehat";
+            this.pictureBox_backSolusiJaninTidakSehat.Size = new System.Drawing.Size(65, 65);
+            this.pictureBox_backSolusiJaninTidakSehat.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox_backSolusiJaninTidakSehat.TabIndex = 14;
+            this.pictureBox_backSolusiJaninTidakSehat.TabStop = false;
+            this.pictureBox_backSolusiJaninTidakSehat.Click += new System.EventHandler(this.pictureBox_backSolusiJaninTidakSehat_Click);
+            // 
+            // label27
+            // 
+            this.label27.AutoSize = true;
+            this.label27.BackColor = System.Drawing.Color.Transparent;
+            this.label27.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label27.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label27.Location = new System.Drawing.Point(48, 533);
+            this.label27.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label27.Name = "label27";
+            this.label27.Size = new System.Drawing.Size(327, 81);
+            this.label27.TabIndex = 5;
+            this.label27.Text = "7. Hindari rokok dan minuman \r\n    alkohol.\r\n    Jaga berat badan!";
+            // 
+            // label26
+            // 
+            this.label26.AutoSize = true;
+            this.label26.BackColor = System.Drawing.Color.Transparent;
+            this.label26.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label26.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label26.Location = new System.Drawing.Point(48, 484);
+            this.label26.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label26.Name = "label26";
+            this.label26.Size = new System.Drawing.Size(283, 27);
+            this.label26.TabIndex = 4;
+            this.label26.Text = "6. Jangan lupakan yodium.";
+            // 
+            // label25
+            // 
+            this.label25.AutoSize = true;
+            this.label25.BackColor = System.Drawing.Color.Transparent;
+            this.label25.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label25.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label25.Location = new System.Drawing.Point(48, 407);
+            this.label25.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label25.Name = "label25";
+            this.label25.Size = new System.Drawing.Size(320, 54);
+            this.label25.TabIndex = 3;
+            this.label25.Text = "5. Tingkatkan asupan kalsium \r\n     dan vitamin D.";
+            // 
+            // label24
+            // 
+            this.label24.AutoSize = true;
+            this.label24.BackColor = System.Drawing.Color.Transparent;
+            this.label24.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label24.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label24.Location = new System.Drawing.Point(48, 358);
+            this.label24.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label24.Name = "label24";
+            this.label24.Size = new System.Drawing.Size(313, 27);
+            this.label24.TabIndex = 2;
+            this.label24.Text = "4. Perhatikan asupan zat besi.";
+            // 
+            // label23
+            // 
+            this.label23.AutoSize = true;
+            this.label23.BackColor = System.Drawing.Color.Transparent;
+            this.label23.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label23.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label23.Location = new System.Drawing.Point(48, 309);
+            this.label23.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label23.Name = "label23";
+            this.label23.Size = new System.Drawing.Size(328, 27);
+            this.label23.TabIndex = 1;
+            this.label23.Text = "3. Ingat pentingnya asam folat.";
+            // 
+            // label22
+            // 
+            this.label22.AutoSize = true;
+            this.label22.BackColor = System.Drawing.Color.Transparent;
+            this.label22.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label22.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label22.Location = new System.Drawing.Point(48, 260);
+            this.label22.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label22.Name = "label22";
+            this.label22.Size = new System.Drawing.Size(381, 27);
+            this.label22.TabIndex = 0;
+            this.label22.Text = "2. Konsumsi Makanan yang matang.";
+            this.label22.Click += new System.EventHandler(this.label11_Click);
+            // 
+            // label21
+            // 
+            this.label21.AutoSize = true;
+            this.label21.BackColor = System.Drawing.Color.Transparent;
+            this.label21.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label21.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label21.Location = new System.Drawing.Point(48, 129);
+            this.label21.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label21.Name = "label21";
+            this.label21.Size = new System.Drawing.Size(361, 108);
+            this.label21.TabIndex = 0;
+            this.label21.Text = "1. Penuhi Kebutuhan Kalori Harian\r\n    jumlah asupan yang anda\r\n    konsumsi sang" +
+    "at memengaruhi\r\n    nutrisi janin.";
+            this.label21.Click += new System.EventHandler(this.label11_Click);
+            // 
+>>>>>>> 47e068f (monitoring)
             // panel_tentangAplikasi
             // 
             this.panel_tentangAplikasi.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel_tentangAplikasi.BackgroundImage")));
             this.panel_tentangAplikasi.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.panel_tentangAplikasi.Controls.Add(this.button_menuAwalTentangAplikasi);
+<<<<<<< HEAD
             this.panel_tentangAplikasi.Controls.Add(this.label28);
             this.panel_tentangAplikasi.Controls.Add(this.label40);
             this.panel_tentangAplikasi.Controls.Add(this.label41);
             this.panel_tentangAplikasi.Location = new System.Drawing.Point(0, 38);
             this.panel_tentangAplikasi.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.panel_tentangAplikasi.Controls.Add(this.panel_solusijaninTidakSehat);
+            this.panel_tentangAplikasi.Controls.Add(this.label28);
+            this.panel_tentangAplikasi.Controls.Add(this.label40);
+            this.panel_tentangAplikasi.Controls.Add(this.label41);
+            this.panel_tentangAplikasi.Location = new System.Drawing.Point(0, 0);
+            this.panel_tentangAplikasi.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.panel_tentangAplikasi.Name = "panel_tentangAplikasi";
             this.panel_tentangAplikasi.Size = new System.Drawing.Size(463, 807);
             this.panel_tentangAplikasi.TabIndex = 13;
@@ -1627,7 +2364,11 @@ namespace Stunting_ITPM
             this.button_menuAwalTentangAplikasi.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_menuAwalTentangAplikasi.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.button_menuAwalTentangAplikasi.Location = new System.Drawing.Point(148, 706);
+<<<<<<< HEAD
             this.button_menuAwalTentangAplikasi.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.button_menuAwalTentangAplikasi.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.button_menuAwalTentangAplikasi.Name = "button_menuAwalTentangAplikasi";
             this.button_menuAwalTentangAplikasi.Size = new System.Drawing.Size(141, 58);
             this.button_menuAwalTentangAplikasi.TabIndex = 20;
@@ -1679,6 +2420,11 @@ namespace Stunting_ITPM
             // 
             this.panel_solusiAnakStunting.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel_solusiAnakStunting.BackgroundImage")));
             this.panel_solusiAnakStunting.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+<<<<<<< HEAD
+=======
+            this.panel_solusiAnakStunting.Controls.Add(this.button_MonitoringAnak);
+            this.panel_solusiAnakStunting.Controls.Add(this.panel_tentangAplikasi);
+>>>>>>> 47e068f (monitoring)
             this.panel_solusiAnakStunting.Controls.Add(this.button_menuAwalAnakStunting);
             this.panel_solusiAnakStunting.Controls.Add(this.button_tentangAplikasiAnakStunting);
             this.panel_solusiAnakStunting.Controls.Add(this.pictureBox_backSolusiAnakStunting);
@@ -1687,20 +2433,47 @@ namespace Stunting_ITPM
             this.panel_solusiAnakStunting.Controls.Add(this.label39);
             this.panel_solusiAnakStunting.Controls.Add(this.label42);
             this.panel_solusiAnakStunting.Controls.Add(this.label44);
+<<<<<<< HEAD
             this.panel_solusiAnakStunting.Location = new System.Drawing.Point(0, 38);
             this.panel_solusiAnakStunting.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.panel_solusiAnakStunting.Location = new System.Drawing.Point(0, 18);
+            this.panel_solusiAnakStunting.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.panel_solusiAnakStunting.Name = "panel_solusiAnakStunting";
             this.panel_solusiAnakStunting.Size = new System.Drawing.Size(463, 807);
             this.panel_solusiAnakStunting.TabIndex = 13;
             // 
+<<<<<<< HEAD
+=======
+            // button_MonitoringAnak
+            // 
+            this.button_MonitoringAnak.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(83)))), ((int)(((byte)(214)))), ((int)(((byte)(84)))));
+            this.button_MonitoringAnak.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button_MonitoringAnak.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button_MonitoringAnak.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.button_MonitoringAnak.Location = new System.Drawing.Point(160, 695);
+            this.button_MonitoringAnak.Margin = new System.Windows.Forms.Padding(4);
+            this.button_MonitoringAnak.Name = "button_MonitoringAnak";
+            this.button_MonitoringAnak.Size = new System.Drawing.Size(141, 58);
+            this.button_MonitoringAnak.TabIndex = 20;
+            this.button_MonitoringAnak.Text = "Monitoring";
+            this.button_MonitoringAnak.UseVisualStyleBackColor = false;
+            // 
+>>>>>>> 47e068f (monitoring)
             // button_menuAwalAnakStunting
             // 
             this.button_menuAwalAnakStunting.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(83)))), ((int)(((byte)(214)))), ((int)(((byte)(84)))));
             this.button_menuAwalAnakStunting.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button_menuAwalAnakStunting.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_menuAwalAnakStunting.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+<<<<<<< HEAD
             this.button_menuAwalAnakStunting.Location = new System.Drawing.Point(85, 699);
             this.button_menuAwalAnakStunting.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.button_menuAwalAnakStunting.Location = new System.Drawing.Point(10, 695);
+            this.button_menuAwalAnakStunting.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.button_menuAwalAnakStunting.Name = "button_menuAwalAnakStunting";
             this.button_menuAwalAnakStunting.Size = new System.Drawing.Size(141, 58);
             this.button_menuAwalAnakStunting.TabIndex = 19;
@@ -1714,8 +2487,13 @@ namespace Stunting_ITPM
             this.button_tentangAplikasiAnakStunting.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button_tentangAplikasiAnakStunting.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_tentangAplikasiAnakStunting.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+<<<<<<< HEAD
             this.button_tentangAplikasiAnakStunting.Location = new System.Drawing.Point(259, 699);
             this.button_tentangAplikasiAnakStunting.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.button_tentangAplikasiAnakStunting.Location = new System.Drawing.Point(312, 695);
+            this.button_tentangAplikasiAnakStunting.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.button_tentangAplikasiAnakStunting.Name = "button_tentangAplikasiAnakStunting";
             this.button_tentangAplikasiAnakStunting.Size = new System.Drawing.Size(141, 58);
             this.button_tentangAplikasiAnakStunting.TabIndex = 18;
@@ -1728,7 +2506,11 @@ namespace Stunting_ITPM
             this.pictureBox_backSolusiAnakStunting.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox_backSolusiAnakStunting.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox_backSolusiAnakStunting.Image")));
             this.pictureBox_backSolusiAnakStunting.Location = new System.Drawing.Point(4, 4);
+<<<<<<< HEAD
             this.pictureBox_backSolusiAnakStunting.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.pictureBox_backSolusiAnakStunting.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.pictureBox_backSolusiAnakStunting.Name = "pictureBox_backSolusiAnakStunting";
             this.pictureBox_backSolusiAnakStunting.Size = new System.Drawing.Size(65, 65);
             this.pictureBox_backSolusiAnakStunting.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -1815,8 +2597,13 @@ namespace Stunting_ITPM
             this.panel_solusiAnakSehat.Controls.Add(this.label49);
             this.panel_solusiAnakSehat.Controls.Add(this.label50);
             this.panel_solusiAnakSehat.Controls.Add(this.label51);
+<<<<<<< HEAD
             this.panel_solusiAnakSehat.Location = new System.Drawing.Point(0, 38);
             this.panel_solusiAnakSehat.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.panel_solusiAnakSehat.Location = new System.Drawing.Point(0, 18);
+            this.panel_solusiAnakSehat.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.panel_solusiAnakSehat.Name = "panel_solusiAnakSehat";
             this.panel_solusiAnakSehat.Size = new System.Drawing.Size(463, 807);
             this.panel_solusiAnakSehat.TabIndex = 14;
@@ -1828,7 +2615,11 @@ namespace Stunting_ITPM
             this.button_menuAwalAnakSehat.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_menuAwalAnakSehat.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.button_menuAwalAnakSehat.Location = new System.Drawing.Point(71, 692);
+<<<<<<< HEAD
             this.button_menuAwalAnakSehat.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.button_menuAwalAnakSehat.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.button_menuAwalAnakSehat.Name = "button_menuAwalAnakSehat";
             this.button_menuAwalAnakSehat.Size = new System.Drawing.Size(141, 58);
             this.button_menuAwalAnakSehat.TabIndex = 19;
@@ -1843,7 +2634,11 @@ namespace Stunting_ITPM
             this.button_tentangAplikasiAnakSehat.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_tentangAplikasiAnakSehat.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.button_tentangAplikasiAnakSehat.Location = new System.Drawing.Point(244, 692);
+<<<<<<< HEAD
             this.button_tentangAplikasiAnakSehat.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.button_tentangAplikasiAnakSehat.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.button_tentangAplikasiAnakSehat.Name = "button_tentangAplikasiAnakSehat";
             this.button_tentangAplikasiAnakSehat.Size = new System.Drawing.Size(141, 58);
             this.button_tentangAplikasiAnakSehat.TabIndex = 18;
@@ -1856,7 +2651,11 @@ namespace Stunting_ITPM
             this.pictureBox_backSolusiAnakSehat.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox_backSolusiAnakSehat.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox_backSolusiAnakSehat.Image")));
             this.pictureBox_backSolusiAnakSehat.Location = new System.Drawing.Point(4, 4);
+<<<<<<< HEAD
             this.pictureBox_backSolusiAnakSehat.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.pictureBox_backSolusiAnakSehat.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.pictureBox_backSolusiAnakSehat.Name = "pictureBox_backSolusiAnakSehat";
             this.pictureBox_backSolusiAnakSehat.Size = new System.Drawing.Size(65, 65);
             this.pictureBox_backSolusiAnakSehat.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -1870,12 +2669,21 @@ namespace Stunting_ITPM
             this.label45.BackColor = System.Drawing.Color.Transparent;
             this.label45.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label45.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+<<<<<<< HEAD
             this.label45.Location = new System.Drawing.Point(63, 75);
             this.label45.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label45.Name = "label45";
             this.label45.Size = new System.Drawing.Size(327, 27);
             this.label45.TabIndex = 6;
             this.label45.Text = "Menjaga anak agar tetap sehat";
+=======
+            this.label45.Location = new System.Drawing.Point(36, 73);
+            this.label45.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label45.Name = "label45";
+            this.label45.Size = new System.Drawing.Size(377, 27);
+            this.label45.TabIndex = 6;
+            this.label45.Text = "Cara menjaga anak agar tetap sehat";
+>>>>>>> 47e068f (monitoring)
             this.label45.Click += new System.EventHandler(this.label45_Click);
             // 
             // label46
@@ -1964,8 +2772,13 @@ namespace Stunting_ITPM
             this.panel_anakStunting.Controls.Add(this.pictureBox11);
             this.panel_anakStunting.Controls.Add(this.button_lanjutAnakStunting);
             this.panel_anakStunting.Controls.Add(this.label17);
+<<<<<<< HEAD
             this.panel_anakStunting.Location = new System.Drawing.Point(0, 38);
             this.panel_anakStunting.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.panel_anakStunting.Location = new System.Drawing.Point(0, 18);
+            this.panel_anakStunting.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.panel_anakStunting.Name = "panel_anakStunting";
             this.panel_anakStunting.Size = new System.Drawing.Size(463, 807);
             this.panel_anakStunting.TabIndex = 16;
@@ -1976,7 +2789,11 @@ namespace Stunting_ITPM
             this.pictureBox_backAnakStunting.ErrorImage = null;
             this.pictureBox_backAnakStunting.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox_backAnakStunting.Image")));
             this.pictureBox_backAnakStunting.Location = new System.Drawing.Point(4, 4);
+<<<<<<< HEAD
             this.pictureBox_backAnakStunting.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.pictureBox_backAnakStunting.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.pictureBox_backAnakStunting.Name = "pictureBox_backAnakStunting";
             this.pictureBox_backAnakStunting.Size = new System.Drawing.Size(65, 65);
             this.pictureBox_backAnakStunting.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -1989,7 +2806,11 @@ namespace Stunting_ITPM
             this.pictureBox11.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox11.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox11.Image")));
             this.pictureBox11.Location = new System.Drawing.Point(393, 4);
+<<<<<<< HEAD
             this.pictureBox11.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.pictureBox11.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.pictureBox11.Name = "pictureBox11";
             this.pictureBox11.Size = new System.Drawing.Size(65, 65);
             this.pictureBox11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -2003,7 +2824,11 @@ namespace Stunting_ITPM
             this.button_lanjutAnakStunting.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_lanjutAnakStunting.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.button_lanjutAnakStunting.Location = new System.Drawing.Point(157, 662);
+<<<<<<< HEAD
             this.button_lanjutAnakStunting.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.button_lanjutAnakStunting.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.button_lanjutAnakStunting.Name = "button_lanjutAnakStunting";
             this.button_lanjutAnakStunting.Size = new System.Drawing.Size(141, 58);
             this.button_lanjutAnakStunting.TabIndex = 14;
@@ -2025,6 +2850,7 @@ namespace Stunting_ITPM
             this.label17.Text = "Anak anda tergolong \r\nStunting";
             this.label17.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
+<<<<<<< HEAD
             // panel_janinTidakSehat
             // 
             this.panel_janinTidakSehat.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel_janinTidakSehat.BackgroundImage")));
@@ -2039,17 +2865,25 @@ namespace Stunting_ITPM
             this.panel_janinTidakSehat.Size = new System.Drawing.Size(463, 807);
             this.panel_janinTidakSehat.TabIndex = 15;
             // 
+=======
+>>>>>>> 47e068f (monitoring)
             // pictureBox8
             // 
             this.pictureBox8.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox8.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox8.Image")));
+<<<<<<< HEAD
             this.pictureBox8.Location = new System.Drawing.Point(393, 4);
             this.pictureBox8.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.pictureBox8.Location = new System.Drawing.Point(394, 4);
+            this.pictureBox8.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.pictureBox8.Name = "pictureBox8";
             this.pictureBox8.Size = new System.Drawing.Size(65, 65);
             this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox8.TabIndex = 14;
             this.pictureBox8.TabStop = false;
+<<<<<<< HEAD
             // 
             // pictureBox_backJaninTidakSehat
             // 
@@ -2148,6 +2982,400 @@ namespace Stunting_ITPM
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(252, 25);
             this.textBox3.TabIndex = 1;
+=======
+            this.pictureBox8.Click += new System.EventHandler(this.pictureBox8_Click_1);
+            // 
+            // panel_registrasi
+            // 
+            this.panel_registrasi.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel_registrasi.BackgroundImage")));
+            this.panel_registrasi.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.panel_registrasi.Controls.Add(this.checkBox_registrasiPassword);
+            this.panel_registrasi.Controls.Add(this.label58);
+            this.panel_registrasi.Controls.Add(this.radioButton_registrasiLakilaki);
+            this.panel_registrasi.Controls.Add(this.radioButton_registrasiPerempuan);
+            this.panel_registrasi.Controls.Add(this.label57);
+            this.panel_registrasi.Controls.Add(this.label55);
+            this.panel_registrasi.Controls.Add(this.label53);
+            this.panel_registrasi.Controls.Add(this.button_registrasiDaftar);
+            this.panel_registrasi.Controls.Add(this.pictureBox_backRegistrasi);
+            this.panel_registrasi.Controls.Add(this.label52);
+            this.panel_registrasi.Controls.Add(this.textBox_registrasiNomorTelepon);
+            this.panel_registrasi.Controls.Add(this.textBox_registrasiAlamat);
+            this.panel_registrasi.Controls.Add(this.textBox_registrasiUsername);
+            this.panel_registrasi.Controls.Add(this.textBox_registrasiNama);
+            this.panel_registrasi.Controls.Add(this.label54);
+            this.panel_registrasi.Controls.Add(this.label56);
+            this.panel_registrasi.Location = new System.Drawing.Point(0, 15);
+            this.panel_registrasi.Margin = new System.Windows.Forms.Padding(4);
+            this.panel_registrasi.Name = "panel_registrasi";
+            this.panel_registrasi.Size = new System.Drawing.Size(463, 807);
+            this.panel_registrasi.TabIndex = 20;
+            // 
+            // checkBox_registrasiPassword
+            // 
+            this.checkBox_registrasiPassword.AutoSize = true;
+            this.checkBox_registrasiPassword.BackColor = System.Drawing.Color.Transparent;
+            this.checkBox_registrasiPassword.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.checkBox_registrasiPassword.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.checkBox_registrasiPassword.Location = new System.Drawing.Point(267, 471);
+            this.checkBox_registrasiPassword.Margin = new System.Windows.Forms.Padding(4);
+            this.checkBox_registrasiPassword.Name = "checkBox_registrasiPassword";
+            this.checkBox_registrasiPassword.Size = new System.Drawing.Size(163, 28);
+            this.checkBox_registrasiPassword.TabIndex = 29;
+            this.checkBox_registrasiPassword.Text = "Show Password";
+            this.checkBox_registrasiPassword.UseVisualStyleBackColor = false;
+            this.checkBox_registrasiPassword.CheckedChanged += new System.EventHandler(this.checkBox_registrasiPassword_CheckedChanged);
+            // 
+            // label58
+            // 
+            this.label58.AutoSize = true;
+            this.label58.BackColor = System.Drawing.Color.Transparent;
+            this.label58.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label58.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label58.Location = new System.Drawing.Point(20, 437);
+            this.label58.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label58.Name = "label58";
+            this.label58.Size = new System.Drawing.Size(120, 27);
+            this.label58.TabIndex = 27;
+            this.label58.Text = "Password: ";
+            // 
+            // radioButton_registrasiLakilaki
+            // 
+            this.radioButton_registrasiLakilaki.AutoSize = true;
+            this.radioButton_registrasiLakilaki.BackColor = System.Drawing.Color.Transparent;
+            this.radioButton_registrasiLakilaki.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.radioButton_registrasiLakilaki.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.radioButton_registrasiLakilaki.Location = new System.Drawing.Point(209, 351);
+            this.radioButton_registrasiLakilaki.Margin = new System.Windows.Forms.Padding(4);
+            this.radioButton_registrasiLakilaki.Name = "radioButton_registrasiLakilaki";
+            this.radioButton_registrasiLakilaki.Size = new System.Drawing.Size(102, 28);
+            this.radioButton_registrasiLakilaki.TabIndex = 26;
+            this.radioButton_registrasiLakilaki.TabStop = true;
+            this.radioButton_registrasiLakilaki.Text = "Laki-laki";
+            this.radioButton_registrasiLakilaki.UseVisualStyleBackColor = false;
+            // 
+            // radioButton_registrasiPerempuan
+            // 
+            this.radioButton_registrasiPerempuan.AutoSize = true;
+            this.radioButton_registrasiPerempuan.BackColor = System.Drawing.Color.Transparent;
+            this.radioButton_registrasiPerempuan.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.radioButton_registrasiPerempuan.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.radioButton_registrasiPerempuan.Location = new System.Drawing.Point(209, 385);
+            this.radioButton_registrasiPerempuan.Margin = new System.Windows.Forms.Padding(4);
+            this.radioButton_registrasiPerempuan.Name = "radioButton_registrasiPerempuan";
+            this.radioButton_registrasiPerempuan.Size = new System.Drawing.Size(129, 28);
+            this.radioButton_registrasiPerempuan.TabIndex = 25;
+            this.radioButton_registrasiPerempuan.TabStop = true;
+            this.radioButton_registrasiPerempuan.Text = "Perempuan";
+            this.radioButton_registrasiPerempuan.UseVisualStyleBackColor = false;
+            // 
+            // label57
+            // 
+            this.label57.AutoSize = true;
+            this.label57.BackColor = System.Drawing.Color.Transparent;
+            this.label57.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label57.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label57.Location = new System.Drawing.Point(20, 351);
+            this.label57.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label57.Name = "label57";
+            this.label57.Size = new System.Drawing.Size(161, 27);
+            this.label57.TabIndex = 24;
+            this.label57.Text = "Jenis kelamin: ";
+            // 
+            // label55
+            // 
+            this.label55.AutoSize = true;
+            this.label55.BackColor = System.Drawing.Color.Transparent;
+            this.label55.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label55.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label55.Location = new System.Drawing.Point(20, 246);
+            this.label55.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label55.Name = "label55";
+            this.label55.Size = new System.Drawing.Size(97, 27);
+            this.label55.TabIndex = 22;
+            this.label55.Text = "Alamat: ";
+            // 
+            // label53
+            // 
+            this.label53.AutoSize = true;
+            this.label53.BackColor = System.Drawing.Color.Transparent;
+            this.label53.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label53.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label53.Location = new System.Drawing.Point(20, 143);
+            this.label53.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label53.Name = "label53";
+            this.label53.Size = new System.Drawing.Size(85, 27);
+            this.label53.TabIndex = 20;
+            this.label53.Text = "Nama: ";
+            // 
+            // button_registrasiDaftar
+            // 
+            this.button_registrasiDaftar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(83)))), ((int)(((byte)(214)))), ((int)(((byte)(84)))));
+            this.button_registrasiDaftar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button_registrasiDaftar.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button_registrasiDaftar.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.button_registrasiDaftar.Location = new System.Drawing.Point(168, 622);
+            this.button_registrasiDaftar.Margin = new System.Windows.Forms.Padding(4);
+            this.button_registrasiDaftar.Name = "button_registrasiDaftar";
+            this.button_registrasiDaftar.Size = new System.Drawing.Size(141, 58);
+            this.button_registrasiDaftar.TabIndex = 18;
+            this.button_registrasiDaftar.Text = "Daftar";
+            this.button_registrasiDaftar.UseVisualStyleBackColor = false;
+            this.button_registrasiDaftar.Click += new System.EventHandler(this.button_registrasiDaftar_Click);
+            // 
+            // pictureBox_backRegistrasi
+            // 
+            this.pictureBox_backRegistrasi.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox_backRegistrasi.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox_backRegistrasi.Image")));
+            this.pictureBox_backRegistrasi.Location = new System.Drawing.Point(4, 4);
+            this.pictureBox_backRegistrasi.Margin = new System.Windows.Forms.Padding(4);
+            this.pictureBox_backRegistrasi.Name = "pictureBox_backRegistrasi";
+            this.pictureBox_backRegistrasi.Size = new System.Drawing.Size(65, 65);
+            this.pictureBox_backRegistrasi.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox_backRegistrasi.TabIndex = 15;
+            this.pictureBox_backRegistrasi.TabStop = false;
+            this.pictureBox_backRegistrasi.Click += new System.EventHandler(this.pictureBox_backRegistrasi_Click);
+            // 
+            // label52
+            // 
+            this.label52.AutoSize = true;
+            this.label52.BackColor = System.Drawing.Color.Transparent;
+            this.label52.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label52.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label52.Location = new System.Drawing.Point(144, 76);
+            this.label52.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label52.Name = "label52";
+            this.label52.Size = new System.Drawing.Size(169, 27);
+            this.label52.TabIndex = 6;
+            this.label52.Text = "Form Registrasi";
+            // 
+            // textBox_registrasiNomorTelepon
+            // 
+            this.textBox_registrasiNomorTelepon.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox_registrasiNomorTelepon.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(53)))), ((int)(((byte)(135)))), ((int)(((byte)(53)))));
+            this.textBox_registrasiNomorTelepon.Location = new System.Drawing.Point(209, 302);
+            this.textBox_registrasiNomorTelepon.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox_registrasiNomorTelepon.Name = "textBox_registrasiNomorTelepon";
+            this.textBox_registrasiNomorTelepon.Size = new System.Drawing.Size(232, 28);
+            this.textBox_registrasiNomorTelepon.TabIndex = 1;
+            this.textBox_registrasiNomorTelepon.TextChanged += new System.EventHandler(this.textBox_username_TextChanged);
+            this.textBox_registrasiNomorTelepon.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox_registrasiNomorTelepon_KeyPress);
+            // 
+            // textBox_registrasiAlamat
+            // 
+            this.textBox_registrasiAlamat.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox_registrasiAlamat.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(53)))), ((int)(((byte)(135)))), ((int)(((byte)(53)))));
+            this.textBox_registrasiAlamat.Location = new System.Drawing.Point(149, 244);
+            this.textBox_registrasiAlamat.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox_registrasiAlamat.Name = "textBox_registrasiAlamat";
+            this.textBox_registrasiAlamat.Size = new System.Drawing.Size(292, 28);
+            this.textBox_registrasiAlamat.TabIndex = 1;
+            this.textBox_registrasiAlamat.TextChanged += new System.EventHandler(this.textBox_username_TextChanged);
+            // 
+            // textBox_registrasiUsername
+            // 
+            this.textBox_registrasiUsername.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox_registrasiUsername.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(53)))), ((int)(((byte)(135)))), ((int)(((byte)(53)))));
+            this.textBox_registrasiUsername.Location = new System.Drawing.Point(149, 193);
+            this.textBox_registrasiUsername.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox_registrasiUsername.Name = "textBox_registrasiUsername";
+            this.textBox_registrasiUsername.Size = new System.Drawing.Size(292, 28);
+            this.textBox_registrasiUsername.TabIndex = 1;
+            this.textBox_registrasiUsername.TextChanged += new System.EventHandler(this.textBox_username_TextChanged);
+            this.textBox_registrasiUsername.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox_registrasiUsername_KeyPress);
+            // 
+            // textBox_registrasiNama
+            // 
+            this.textBox_registrasiNama.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox_registrasiNama.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(53)))), ((int)(((byte)(135)))), ((int)(((byte)(53)))));
+            this.textBox_registrasiNama.Location = new System.Drawing.Point(149, 140);
+            this.textBox_registrasiNama.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox_registrasiNama.Name = "textBox_registrasiNama";
+            this.textBox_registrasiNama.Size = new System.Drawing.Size(292, 28);
+            this.textBox_registrasiNama.TabIndex = 1;
+            this.textBox_registrasiNama.TextChanged += new System.EventHandler(this.textBox_username_TextChanged);
+            this.textBox_registrasiNama.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox_registrasiNama_KeyPress);
+            // 
+            // label54
+            // 
+            this.label54.AutoSize = true;
+            this.label54.BackColor = System.Drawing.Color.Transparent;
+            this.label54.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label54.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label54.Location = new System.Drawing.Point(20, 193);
+            this.label54.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label54.Name = "label54";
+            this.label54.Size = new System.Drawing.Size(127, 27);
+            this.label54.TabIndex = 21;
+            this.label54.Text = "Username: ";
+            // 
+            // label56
+            // 
+            this.label56.AutoSize = true;
+            this.label56.BackColor = System.Drawing.Color.Transparent;
+            this.label56.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label56.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label56.Location = new System.Drawing.Point(20, 303);
+            this.label56.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label56.Name = "label56";
+            this.label56.Size = new System.Drawing.Size(178, 27);
+            this.label56.TabIndex = 23;
+            this.label56.Text = "Nomor telepon: ";
+            // 
+            // textBox_registrasiPassword
+            // 
+            this.textBox_registrasiPassword.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox_registrasiPassword.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(53)))), ((int)(((byte)(135)))), ((int)(((byte)(53)))));
+            this.textBox_registrasiPassword.Location = new System.Drawing.Point(154, 184);
+            this.textBox_registrasiPassword.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox_registrasiPassword.Name = "textBox_registrasiPassword";
+            this.textBox_registrasiPassword.Size = new System.Drawing.Size(53, 28);
+            this.textBox_registrasiPassword.TabIndex = 28;
+            // 
+            // panel_MonitoringIbu
+            // 
+            this.panel_MonitoringIbu.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel_MonitoringIbu.BackgroundImage")));
+            this.panel_MonitoringIbu.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.panel_MonitoringIbu.Controls.Add(this.dateTimePicker1);
+            this.panel_MonitoringIbu.Controls.Add(this.pictureBox8);
+            this.panel_MonitoringIbu.Controls.Add(this.textBox_registrasiPassword);
+            this.panel_MonitoringIbu.Controls.Add(this.label63);
+            this.panel_MonitoringIbu.Controls.Add(this.label62);
+            this.panel_MonitoringIbu.Controls.Add(this.label61);
+            this.panel_MonitoringIbu.Controls.Add(this.button_MenuAwalMonitoringIbu);
+            this.panel_MonitoringIbu.Controls.Add(this.button_SubmitIbu);
+            this.panel_MonitoringIbu.Controls.Add(this.label60);
+            this.panel_MonitoringIbu.Controls.Add(this.pictureBox_backMonitoringIbu);
+            this.panel_MonitoringIbu.Location = new System.Drawing.Point(0, 15);
+            this.panel_MonitoringIbu.Margin = new System.Windows.Forms.Padding(4);
+            this.panel_MonitoringIbu.Name = "panel_MonitoringIbu";
+            this.panel_MonitoringIbu.Size = new System.Drawing.Size(463, 807);
+            this.panel_MonitoringIbu.TabIndex = 19;
+            // 
+            // dateTimePicker1
+            // 
+            this.dateTimePicker1.Location = new System.Drawing.Point(153, 258);
+            this.dateTimePicker1.Name = "dateTimePicker1";
+            this.dateTimePicker1.Size = new System.Drawing.Size(200, 22);
+            this.dateTimePicker1.TabIndex = 29;
+            // 
+            // label63
+            // 
+            this.label63.AutoSize = true;
+            this.label63.BackColor = System.Drawing.Color.Transparent;
+            this.label63.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label63.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label63.Location = new System.Drawing.Point(34, 325);
+            this.label63.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label63.Name = "label63";
+            this.label63.Size = new System.Drawing.Size(30, 27);
+            this.label63.TabIndex = 20;
+            this.label63.Text = "??";
+            // 
+            // label62
+            // 
+            this.label62.AutoSize = true;
+            this.label62.BackColor = System.Drawing.Color.Transparent;
+            this.label62.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label62.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label62.Location = new System.Drawing.Point(34, 253);
+            this.label62.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label62.Name = "label62";
+            this.label62.Size = new System.Drawing.Size(94, 27);
+            this.label62.TabIndex = 19;
+            this.label62.Text = "Tanggal";
+            // 
+            // label61
+            // 
+            this.label61.AutoSize = true;
+            this.label61.BackColor = System.Drawing.Color.Transparent;
+            this.label61.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label61.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label61.Location = new System.Drawing.Point(34, 184);
+            this.label61.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label61.Name = "label61";
+            this.label61.Size = new System.Drawing.Size(84, 27);
+            this.label61.TabIndex = 18;
+            this.label61.Text = "Hari ke";
+            // 
+            // button_MenuAwalMonitoringIbu
+            // 
+            this.button_MenuAwalMonitoringIbu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(83)))), ((int)(((byte)(214)))), ((int)(((byte)(84)))));
+            this.button_MenuAwalMonitoringIbu.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button_MenuAwalMonitoringIbu.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button_MenuAwalMonitoringIbu.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.button_MenuAwalMonitoringIbu.Location = new System.Drawing.Point(58, 704);
+            this.button_MenuAwalMonitoringIbu.Margin = new System.Windows.Forms.Padding(4);
+            this.button_MenuAwalMonitoringIbu.Name = "button_MenuAwalMonitoringIbu";
+            this.button_MenuAwalMonitoringIbu.Size = new System.Drawing.Size(141, 58);
+            this.button_MenuAwalMonitoringIbu.TabIndex = 17;
+            this.button_MenuAwalMonitoringIbu.Text = "Menu Awal";
+            this.button_MenuAwalMonitoringIbu.UseVisualStyleBackColor = false;
+            this.button_MenuAwalMonitoringIbu.Click += new System.EventHandler(this.button_MenuAwalMonitoringIbu_Click);
+            // 
+            // button_SubmitIbu
+            // 
+            this.button_SubmitIbu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(83)))), ((int)(((byte)(214)))), ((int)(((byte)(84)))));
+            this.button_SubmitIbu.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button_SubmitIbu.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button_SubmitIbu.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.button_SubmitIbu.Location = new System.Drawing.Point(264, 703);
+            this.button_SubmitIbu.Margin = new System.Windows.Forms.Padding(4);
+            this.button_SubmitIbu.Name = "button_SubmitIbu";
+            this.button_SubmitIbu.Size = new System.Drawing.Size(141, 58);
+            this.button_SubmitIbu.TabIndex = 16;
+            this.button_SubmitIbu.Text = "Submit";
+            this.button_SubmitIbu.UseVisualStyleBackColor = false;
+            // 
+            // label60
+            // 
+            this.label60.AutoSize = true;
+            this.label60.BackColor = System.Drawing.Color.Transparent;
+            this.label60.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label60.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label60.Location = new System.Drawing.Point(149, 81);
+            this.label60.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label60.Name = "label60";
+            this.label60.Size = new System.Drawing.Size(165, 27);
+            this.label60.TabIndex = 15;
+            this.label60.Text = "Monitoring Ibu\r\n";
+            // 
+            // pictureBox_backMonitoringIbu
+            // 
+            this.pictureBox_backMonitoringIbu.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox_backMonitoringIbu.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox_backMonitoringIbu.Image")));
+            this.pictureBox_backMonitoringIbu.Location = new System.Drawing.Point(4, 4);
+            this.pictureBox_backMonitoringIbu.Margin = new System.Windows.Forms.Padding(4);
+            this.pictureBox_backMonitoringIbu.Name = "pictureBox_backMonitoringIbu";
+            this.pictureBox_backMonitoringIbu.Size = new System.Drawing.Size(65, 65);
+            this.pictureBox_backMonitoringIbu.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox_backMonitoringIbu.TabIndex = 14;
+            this.pictureBox_backMonitoringIbu.TabStop = false;
+            this.pictureBox_backMonitoringIbu.Click += new System.EventHandler(this.pictureBox_backMonitoringIbu_Click);
+            // 
+            // panel_monitoringAnak
+            // 
+            this.panel_monitoringAnak.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel_monitoringAnak.BackgroundImage")));
+            this.panel_monitoringAnak.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.panel_monitoringAnak.Controls.Add(this.button2);
+            this.panel_monitoringAnak.Controls.Add(this.textBox3);
+            this.panel_monitoringAnak.Controls.Add(this.textBox2);
+            this.panel_monitoringAnak.Controls.Add(this.label64);
+            this.panel_monitoringAnak.Controls.Add(this.pictureBox13);
+            this.panel_monitoringAnak.Controls.Add(this.pictureBox10);
+            this.panel_monitoringAnak.Controls.Add(this.dateTimePicker2);
+            this.panel_monitoringAnak.Controls.Add(this.textBox1);
+            this.panel_monitoringAnak.Controls.Add(this.label75);
+            this.panel_monitoringAnak.Controls.Add(this.label76);
+            this.panel_monitoringAnak.Controls.Add(this.label77);
+            this.panel_monitoringAnak.Controls.Add(this.button7);
+            this.panel_monitoringAnak.Controls.Add(this.label78);
+            this.panel_monitoringAnak.Location = new System.Drawing.Point(0, 15);
+            this.panel_monitoringAnak.Margin = new System.Windows.Forms.Padding(4);
+            this.panel_monitoringAnak.Name = "panel_monitoringAnak";
+            this.panel_monitoringAnak.Size = new System.Drawing.Size(463, 807);
+            this.panel_monitoringAnak.TabIndex = 19;
+>>>>>>> 47e068f (monitoring)
             // 
             // button2
             // 
@@ -2155,6 +3383,7 @@ namespace Stunting_ITPM
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button2.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+<<<<<<< HEAD
             this.button2.Location = new System.Drawing.Point(161, 634);
             this.button2.Margin = new System.Windows.Forms.Padding(4);
             this.button2.Name = "button2";
@@ -2292,6 +3521,158 @@ namespace Stunting_ITPM
             this.label43.Size = new System.Drawing.Size(108, 27);
             this.label43.TabIndex = 20;
             this.label43.Text = "Password";
+=======
+            this.button2.Location = new System.Drawing.Point(59, 703);
+            this.button2.Margin = new System.Windows.Forms.Padding(4);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(141, 58);
+            this.button2.TabIndex = 35;
+            this.button2.Text = "Menu Awal";
+            this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // textBox3
+            // 
+            this.textBox3.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(53)))), ((int)(((byte)(135)))), ((int)(((byte)(53)))));
+            this.textBox3.Location = new System.Drawing.Point(154, 403);
+            this.textBox3.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox3.Name = "textBox3";
+            this.textBox3.Size = new System.Drawing.Size(53, 28);
+            this.textBox3.TabIndex = 34;
+            // 
+            // textBox2
+            // 
+            this.textBox2.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(53)))), ((int)(((byte)(135)))), ((int)(((byte)(53)))));
+            this.textBox2.Location = new System.Drawing.Point(154, 324);
+            this.textBox2.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(53, 28);
+            this.textBox2.TabIndex = 33;
+            // 
+            // label64
+            // 
+            this.label64.AutoSize = true;
+            this.label64.BackColor = System.Drawing.Color.Transparent;
+            this.label64.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label64.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label64.Location = new System.Drawing.Point(34, 404);
+            this.label64.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label64.Name = "label64";
+            this.label64.Size = new System.Drawing.Size(66, 27);
+            this.label64.TabIndex = 32;
+            this.label64.Text = "Berat";
+            // 
+            // pictureBox13
+            // 
+            this.pictureBox13.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox13.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox13.Image")));
+            this.pictureBox13.Location = new System.Drawing.Point(394, 4);
+            this.pictureBox13.Margin = new System.Windows.Forms.Padding(4);
+            this.pictureBox13.Name = "pictureBox13";
+            this.pictureBox13.Size = new System.Drawing.Size(65, 65);
+            this.pictureBox13.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox13.TabIndex = 31;
+            this.pictureBox13.TabStop = false;
+            this.pictureBox13.Click += new System.EventHandler(this.pictureBox13_Click);
+            // 
+            // pictureBox10
+            // 
+            this.pictureBox10.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox10.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox10.Image")));
+            this.pictureBox10.Location = new System.Drawing.Point(5, 4);
+            this.pictureBox10.Margin = new System.Windows.Forms.Padding(4);
+            this.pictureBox10.Name = "pictureBox10";
+            this.pictureBox10.Size = new System.Drawing.Size(65, 65);
+            this.pictureBox10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox10.TabIndex = 30;
+            this.pictureBox10.TabStop = false;
+            this.pictureBox10.Click += new System.EventHandler(this.pictureBox10_Click);
+            // 
+            // dateTimePicker2
+            // 
+            this.dateTimePicker2.Location = new System.Drawing.Point(153, 258);
+            this.dateTimePicker2.Name = "dateTimePicker2";
+            this.dateTimePicker2.Size = new System.Drawing.Size(200, 22);
+            this.dateTimePicker2.TabIndex = 29;
+            // 
+            // textBox1
+            // 
+            this.textBox1.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(53)))), ((int)(((byte)(135)))), ((int)(((byte)(53)))));
+            this.textBox1.Location = new System.Drawing.Point(154, 184);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(53, 28);
+            this.textBox1.TabIndex = 28;
+            // 
+            // label75
+            // 
+            this.label75.AutoSize = true;
+            this.label75.BackColor = System.Drawing.Color.Transparent;
+            this.label75.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label75.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label75.Location = new System.Drawing.Point(34, 325);
+            this.label75.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label75.Name = "label75";
+            this.label75.Size = new System.Drawing.Size(94, 27);
+            this.label75.TabIndex = 20;
+            this.label75.Text = "Panjang";
+            // 
+            // label76
+            // 
+            this.label76.AutoSize = true;
+            this.label76.BackColor = System.Drawing.Color.Transparent;
+            this.label76.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label76.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label76.Location = new System.Drawing.Point(34, 253);
+            this.label76.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label76.Name = "label76";
+            this.label76.Size = new System.Drawing.Size(94, 27);
+            this.label76.TabIndex = 19;
+            this.label76.Text = "Tanggal";
+            // 
+            // label77
+            // 
+            this.label77.AutoSize = true;
+            this.label77.BackColor = System.Drawing.Color.Transparent;
+            this.label77.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label77.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label77.Location = new System.Drawing.Point(34, 184);
+            this.label77.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label77.Name = "label77";
+            this.label77.Size = new System.Drawing.Size(84, 27);
+            this.label77.TabIndex = 18;
+            this.label77.Text = "Hari ke";
+            // 
+            // button7
+            // 
+            this.button7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(83)))), ((int)(((byte)(214)))), ((int)(((byte)(84)))));
+            this.button7.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button7.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button7.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.button7.Location = new System.Drawing.Point(264, 703);
+            this.button7.Margin = new System.Windows.Forms.Padding(4);
+            this.button7.Name = "button7";
+            this.button7.Size = new System.Drawing.Size(141, 58);
+            this.button7.TabIndex = 16;
+            this.button7.Text = "Submit";
+            this.button7.UseVisualStyleBackColor = false;
+            // 
+            // label78
+            // 
+            this.label78.AutoSize = true;
+            this.label78.BackColor = System.Drawing.Color.Transparent;
+            this.label78.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label78.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label78.Location = new System.Drawing.Point(139, 81);
+            this.label78.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label78.Name = "label78";
+            this.label78.Size = new System.Drawing.Size(184, 27);
+            this.label78.TabIndex = 15;
+            this.label78.Text = "Monitoring Anak\r\n";
+>>>>>>> 47e068f (monitoring)
             // 
             // Form1
             // 
@@ -2299,6 +3680,7 @@ namespace Stunting_ITPM
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+<<<<<<< HEAD
             this.ClientSize = new System.Drawing.Size(466, 807);
             this.Controls.Add(this.pictureBox10);
             this.Controls.Add(this.panel_inputOrtuAnak);
@@ -2306,6 +3688,13 @@ namespace Stunting_ITPM
             this.Controls.Add(this.panel_solusiJaninSehat);
             this.Controls.Add(this.panel_solusijaninTidakSehat);
             this.Controls.Add(this.panel_tentangAplikasi);
+=======
+            this.ClientSize = new System.Drawing.Size(476, 826);
+            this.Controls.Add(this.panel_registrasi);
+            this.Controls.Add(this.panel_MonitoringIbu);
+            this.Controls.Add(this.panel_monitoringAnak);
+            this.Controls.Add(this.panel_inputOrtuAnak);
+>>>>>>> 47e068f (monitoring)
             this.Controls.Add(this.panel_solusiAnakStunting);
             this.Controls.Add(this.panel_solusiAnakSehat);
             this.Controls.Add(this.panel_anakStunting);
@@ -2316,7 +3705,11 @@ namespace Stunting_ITPM
             this.Controls.Add(this.panel_login);
             this.DoubleBuffered = true;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+<<<<<<< HEAD
             this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> 47e068f (monitoring)
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -2361,11 +3754,22 @@ namespace Stunting_ITPM
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
             this.panel_solusijaninTidakSehat.ResumeLayout(false);
             this.panel_solusijaninTidakSehat.PerformLayout();
+<<<<<<< HEAD
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox_backSolusiJaninTidakSehat)).EndInit();
             this.panel_solusiJaninSehat.ResumeLayout(false);
             this.panel_solusiJaninSehat.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox_backSolusiJaninSehat)).EndInit();
+=======
+            this.panel_solusiJaninSehat.ResumeLayout(false);
+            this.panel_solusiJaninSehat.PerformLayout();
+            this.panel_janinTidakSehat.ResumeLayout(false);
+            this.panel_janinTidakSehat.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox_backJaninTidakSehat)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox_backSolusiJaninSehat)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox_backSolusiJaninTidakSehat)).EndInit();
+>>>>>>> 47e068f (monitoring)
             this.panel_tentangAplikasi.ResumeLayout(false);
             this.panel_tentangAplikasi.PerformLayout();
             this.panel_solusiAnakStunting.ResumeLayout(false);
@@ -2378,6 +3782,7 @@ namespace Stunting_ITPM
             this.panel_anakStunting.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox_backAnakStunting)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).EndInit();
+<<<<<<< HEAD
             this.panel_janinTidakSehat.ResumeLayout(false);
             this.panel_janinTidakSehat.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
@@ -2386,6 +3791,19 @@ namespace Stunting_ITPM
             this.panel_register.ResumeLayout(false);
             this.panel_register.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).EndInit();
+=======
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
+            this.panel_registrasi.ResumeLayout(false);
+            this.panel_registrasi.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox_backRegistrasi)).EndInit();
+            this.panel_MonitoringIbu.ResumeLayout(false);
+            this.panel_MonitoringIbu.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox_backMonitoringIbu)).EndInit();
+            this.panel_monitoringAnak.ResumeLayout(false);
+            this.panel_monitoringAnak.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).EndInit();
+>>>>>>> 47e068f (monitoring)
             this.ResumeLayout(false);
 
         }
@@ -2401,9 +3819,12 @@ namespace Stunting_ITPM
         private System.Windows.Forms.TextBox textBox_username;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Panel panel_pilih;
+<<<<<<< HEAD
         private System.Windows.Forms.RadioButton radioButton_ortuAnak;
         private System.Windows.Forms.RadioButton radioButton_mengandung;
         private System.Windows.Forms.Button button_lanjutPilih;
+=======
+>>>>>>> 47e068f (monitoring)
         private System.Windows.Forms.PictureBox pictureBox_ortuAnak;
         private System.Windows.Forms.PictureBox pictureBox_mengandung;
         private System.Windows.Forms.PictureBox pictureBox2;
@@ -2526,6 +3947,7 @@ namespace Stunting_ITPM
         private System.Windows.Forms.PictureBox pictureBox_backJaninTidakSehat;
         private System.Windows.Forms.Button button_lanjutJaninTidakSehat;
         private System.Windows.Forms.Label label34;
+<<<<<<< HEAD
         private System.Windows.Forms.PictureBox pictureBox10;
         private System.Windows.Forms.Panel panel_register;
         private System.Windows.Forms.TextBox textBox1;
@@ -2542,6 +3964,54 @@ namespace Stunting_ITPM
         private System.Windows.Forms.TextBox textBox5;
         private System.Windows.Forms.TextBox textBox4;
         private System.Windows.Forms.PictureBox pictureBox12;
+=======
+        private System.Windows.Forms.Label label37;
+        private System.Windows.Forms.Label label43;
+        private System.Windows.Forms.Panel panel_registrasi;
+        private System.Windows.Forms.Button button_registrasiDaftar;
+        private System.Windows.Forms.PictureBox pictureBox_backRegistrasi;
+        private System.Windows.Forms.Label label52;
+        private System.Windows.Forms.TextBox textBox_registrasiNama;
+        private System.Windows.Forms.Label label54;
+        private System.Windows.Forms.Label label53;
+        private System.Windows.Forms.TextBox textBox_registrasiUsername;
+        private System.Windows.Forms.TextBox textBox_registrasiPassword;
+        private System.Windows.Forms.Label label58;
+        private System.Windows.Forms.RadioButton radioButton_registrasiLakilaki;
+        private System.Windows.Forms.RadioButton radioButton_registrasiPerempuan;
+        private System.Windows.Forms.Label label57;
+        private System.Windows.Forms.Label label55;
+        private System.Windows.Forms.TextBox textBox_registrasiNomorTelepon;
+        private System.Windows.Forms.TextBox textBox_registrasiAlamat;
+        private System.Windows.Forms.Label label56;
+        private System.Windows.Forms.CheckBox checkBox_registrasiPassword;
+        private System.Windows.Forms.Label label59;
+        private System.Windows.Forms.Button button_MonitoringIbu;
+        private System.Windows.Forms.Panel panel_MonitoringIbu;
+        private System.Windows.Forms.Button button_MenuAwalMonitoringIbu;
+        private System.Windows.Forms.Button button_SubmitIbu;
+        private System.Windows.Forms.Label label60;
+        private System.Windows.Forms.PictureBox pictureBox_backMonitoringIbu;
+        private System.Windows.Forms.Label label63;
+        private System.Windows.Forms.Label label62;
+        private System.Windows.Forms.Label label61;
+        private System.Windows.Forms.DateTimePicker dateTimePicker1;
+        private System.Windows.Forms.Button button_MonitoringAnak;
+        private System.Windows.Forms.Panel panel_monitoringAnak;
+        private System.Windows.Forms.DateTimePicker dateTimePicker2;
+        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.Label label75;
+        private System.Windows.Forms.Label label76;
+        private System.Windows.Forms.Label label77;
+        private System.Windows.Forms.Button button7;
+        private System.Windows.Forms.Label label78;
+        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.Label label64;
+        private System.Windows.Forms.PictureBox pictureBox13;
+        private System.Windows.Forms.PictureBox pictureBox10;
+        private System.Windows.Forms.Button button2;
+>>>>>>> 47e068f (monitoring)
     }
 }
 

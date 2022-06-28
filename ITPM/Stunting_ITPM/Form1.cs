@@ -31,7 +31,11 @@ namespace Stunting_ITPM
 
         private void panel1_Paint(object sender, PaintEventArgs e)
         {
+<<<<<<< HEAD
             
+=======
+
+>>>>>>> 47e068f (monitoring)
         }
 
         private void checkBox_showPassword_CheckedChanged(object sender, EventArgs e)
@@ -48,7 +52,11 @@ namespace Stunting_ITPM
 
         private void button_login_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             if(textBox_username.Text == "" || textBox_password.Text == "")
+=======
+            if (textBox_username.Text == "" || textBox_password.Text == "")
+>>>>>>> 47e068f (monitoring)
             {
                 MessageBox.Show("Ada kolom yang belum diisi, mohon diisi terlebih dahulu dengan data yang sesuai");
             }
@@ -115,17 +123,44 @@ namespace Stunting_ITPM
 
         private void pictureBox3_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             radioButton_mengandung.Checked = true;
+=======
+            panel_inputMengandung.BringToFront();
+            panel_inputMengandung.BringToFront();
+            panel_inputMengandung.BringToFront();
+            panel_inputMengandung.BringToFront();
+            panel_inputMengandung.BringToFront();
+            panel_inputMengandung.Visible = true;
+            panel_pilih.Visible = false;
+>>>>>>> 47e068f (monitoring)
         }
 
         private void pictureBox_ortuAnak_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             radioButton_ortuAnak.Checked = true;
+=======
+            panel_inputOrtuAnak.BringToFront();
+            panel_inputOrtuAnak.BringToFront();
+            panel_inputOrtuAnak.BringToFront();
+            panel_inputOrtuAnak.BringToFront();
+            panel_inputOrtuAnak.BringToFront();
+            panel_inputOrtuAnak.BringToFront();
+            panel_inputOrtuAnak.BringToFront();
+            panel_inputOrtuAnak.BringToFront();
+            panel_inputOrtuAnak.Visible = true;
+            panel_pilih.Visible = false;
+>>>>>>> 47e068f (monitoring)
         }
 
         private void button_lanjutPilih_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             if(radioButton_mengandung.Checked != true && radioButton_ortuAnak.Checked != true)
+=======
+            /*if(radioButton_mengandung.Checked != true && radioButton_ortuAnak.Checked != true)
+>>>>>>> 47e068f (monitoring)
             {
                 MessageBox.Show("Silahkan pilih kategori yang cocok terlebih dahulu sebelum lanjut");
             }
@@ -154,7 +189,11 @@ namespace Stunting_ITPM
                     panel_inputMengandung.Visible = true;
                     panel_pilih.Visible = false;
                 }
+<<<<<<< HEAD
             }
+=======
+            }*/
+>>>>>>> 47e068f (monitoring)
 
         }
 
@@ -183,7 +222,11 @@ namespace Stunting_ITPM
 
         private void button_lanjutInputOrtuAnak_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             if((textBox_umurTahun.Text == "" && textBox_umurBulan.Text == "") || (radioButton_lakiLaki.Checked == false && radioButton_perempuan.Checked == false) || (textBox_beratKg.Text == "" && textBox_panjangBayi.Text == ""))
+=======
+            if ((textBox_umurTahun.Text == "" && textBox_umurBulan.Text == "") || (radioButton_lakiLaki.Checked == false && radioButton_perempuan.Checked == false) || (textBox_beratKg.Text == "" && textBox_panjangBayi.Text == ""))
+>>>>>>> 47e068f (monitoring)
             {
                 MessageBox.Show("Ada data yang belum diisi. Mohon isi dulu semua data yang ada lalu lanjut ke tahap berikutnya");
             }
@@ -560,5 +603,180 @@ namespace Stunting_ITPM
             ReleaseCapture();
             SendMessage(this.Handle, WM_NCLBUTTONDOWN, HT_CAPTION, 0);
         }
+<<<<<<< HEAD
+=======
+
+        private void label37_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void checkBox_registrasiPassword_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBox_registrasiPassword.Checked == true)
+            {
+                textBox_registrasiPassword.PasswordChar = '\0';
+            }
+            else
+            {
+                textBox_registrasiPassword.PasswordChar = '*';
+            }
+        }
+
+        private void button_registrasiDaftar_Click(object sender, EventArgs e)
+        {
+            if (textBox_registrasiNama.Text.Length == 0 || textBox_registrasiUsername.Text.Length == 0 || textBox_registrasiAlamat.Text.Length == 0 || textBox_registrasiNomorTelepon.Text.Length == 0 || textBox_registrasiPassword.Text.Length == 0 || (radioButton_registrasiLakilaki.Checked == false && radioButton_registrasiPerempuan.Checked == false))
+            {
+                MessageBox.Show("Ada data yang belum diisi, silahkan isi dulu dengan data yang sesuai");
+            }
+            else
+            {
+                MessageBox.Show("Data anda berhasil disimpan. Silahkan login");
+                panel_login.BringToFront();
+                panel_login.Visible = true;
+                panel_registrasi.Visible = false;
+            }
+        }
+
+        private void pictureBox_backRegistrasi_Click(object sender, EventArgs e)
+        {
+            panel_login.BringToFront();
+            panel_login.Visible = true;
+            panel_registrasi.Visible = false;
+        }
+
+        private void button_register_Click(object sender, EventArgs e)
+        {
+            panel_registrasi.BringToFront();
+            panel_registrasi.Visible = true;
+            panel_login.Visible = false;
+        }
+
+        private void textBox_registrasiNomorTelepon_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = !char.IsDigit(e.KeyChar) && !char.IsControl(e.KeyChar);
+        }
+
+        private void textBox_umurTahun_TextChanged(object sender, EventArgs e)
+        {
+            var textbox = sender as TextBox;
+            int value;
+            if (int.TryParse(textbox.Text, out value))
+            {
+                if (value > 5)
+                    textbox.Text = "5";
+                else if (value < 0)
+                    textbox.Text = "0";
+            }
+        }
+
+        private void textBox_umurBulan_TextChanged(object sender, EventArgs e)
+        {
+            if(textBox_umurTahun.Text == "5")
+            {
+                var textbox = sender as TextBox;
+                int value;
+                if (int.TryParse(textbox.Text, out value))
+                {
+                    if (value > 0)
+                        textbox.Text = "0";
+                    else if (value < 0)
+                        textbox.Text = "0";
+                }
+            }
+            else
+            {
+                var textbox = sender as TextBox;
+                int value;
+                if (int.TryParse(textbox.Text, out value))
+                {
+                    if (value > 12)
+                        textbox.Text = "12";
+                    else if (value < 0)
+                        textbox.Text = "0";
+                }
+            }
+        }
+
+        private void textBox_umurTahun_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = !char.IsDigit(e.KeyChar) && !char.IsControl(e.KeyChar);
+        }
+
+        private void textBox_umurBulan_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = !char.IsDigit(e.KeyChar) && !char.IsControl(e.KeyChar);
+        }
+
+        private void textBox_beratKg_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = !char.IsDigit(e.KeyChar) && !char.IsControl(e.KeyChar);
+        }
+
+        private void textBox_panjangBayi_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = !char.IsDigit(e.KeyChar) && !char.IsControl(e.KeyChar);
+        }
+
+        private void textBox_registrasiNama_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = !(char.IsLetter(e.KeyChar) || e.KeyChar == (char)Keys.Back || e.KeyChar == (char)Keys.Space);
+        }
+
+        private void textBox_registrasiUsername_KeyPress(object sender, KeyPressEventArgs e)
+        {
+
+        }
+
+        private void pictureBox_backMonitoringIbu_Click(object sender, EventArgs e)
+        {
+            panel_solusijaninTidakSehat.BringToFront();
+            panel_solusijaninTidakSehat.Visible = true;
+            panel_MonitoringIbu.Visible = false;
+        }
+
+        private void button_MonitoringIbu_Click(object sender, EventArgs e)
+        {
+            panel_MonitoringIbu.BringToFront();
+            panel_MonitoringIbu.Visible = true;
+            panel_solusijaninTidakSehat.Visible = false;
+        }
+
+        private void pictureBox8_Click_1(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void button_MenuAwalMonitoringIbu_Click(object sender, EventArgs e)
+        {
+            panel_pilih.BringToFront();
+            panel_pilih.Visible = true;
+            panel_MonitoringIbu.Visible = false;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            panel_pilih.BringToFront();
+            panel_pilih.Visible = true;
+            panel_monitoringAnak.Visible = false;
+        }
+
+        private void pictureBox13_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void pictureBox10_Click(object sender, EventArgs e)
+        {
+            panel_solusiAnakStunting.BringToFront();
+            panel_solusiAnakStunting.Visible = true;
+            panel_monitoringAnak.Visible = false;
+        }
+
+        private void panel_janinTidakSehat_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+>>>>>>> 47e068f (monitoring)
     }
 }
